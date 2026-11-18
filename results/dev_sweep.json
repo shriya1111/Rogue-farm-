@@ -1,0 +1,182 @@
+[
+ {
+  "verify_budget": 0,
+  "threshold": 45,
+  "games": 800,
+  "catch %": 54.9,
+  "median round": 7,
+  "false Q / game": 0.133,
+  "mean ledger err $": 324.06,
+  "default": false
+ },
+ {
+  "verify_budget": 0,
+  "threshold": 55,
+  "games": 800,
+  "catch %": 52.6,
+  "median round": 7,
+  "false Q / game": 0.083,
+  "mean ledger err $": 326.18,
+  "default": false
+ },
+ {
+  "verify_budget": 0,
+  "threshold": 65,
+  "games": 800,
+  "catch %": 48.9,
+  "median round": 7,
+  "false Q / game": 0.049,
+  "mean ledger err $": 331.13,
+  "default": false
+ },
+ {
+  "verify_budget": 2,
+  "threshold": 45,
+  "games": 800,
+  "catch %": 72.9,
+  "median round": 5,
+  "false Q / game": 0.304,
+  "mean ledger err $": 209.89,
+  "default": false
+ },
+ {
+  "verify_budget": 2,
+  "threshold": 55,
+  "games": 800,
+  "catch %": 69.1,
+  "median round": 5,
+  "false Q / game": 0.177,
+  "mean ledger err $": 218.8,
+  "default": false
+ },
+ {
+  "verify_budget": 2,
+  "threshold": 65,
+  "games": 800,
+  "catch %": 63.9,
+  "median round": 5,
+  "false Q / game": 0.106,
+  "mean ledger err $": 220.71,
+  "default": false
+ },
+ {
+  "verify_budget": 3,
+  "threshold": 45,
+  "games": 800,
+  "catch %": 81.0,
+  "median round": 5.0,
+  "false Q / game": 0.32,
+  "mean ledger err $": 155.17,
+  "default": false
+ },
+ {
+  "verify_budget": 3,
+  "threshold": 55,
+  "games": 800,
+  "catch %": 77.0,
+  "median round": 5.0,
+  "false Q / game": 0.201,
+  "mean ledger err $": 161.97,
+  "default": false
+ },
+ {
+  "verify_budget": 3,
+  "threshold": 65,
+  "games": 800,
+  "catch %": 73.2,
+  "median round": 5.0,
+  "false Q / game": 0.126,
+  "mean ledger err $": 161.81,
+  "default": false
+ },
+ {
+  "verify_budget": 4,
+  "threshold": 45,
+  "games": 800,
+  "catch %": 85.4,
+  "median round": 5,
+  "false Q / game": 0.4,
+  "mean ledger err $": 109.69,
+  "default": false
+ },
+ {
+  "verify_budget": 4,
+  "threshold": 55,
+  "games": 800,
+  "catch %": 81.6,
+  "median round": 6,
+  "false Q / game": 0.256,
+  "mean ledger err $": 116.92,
+  "default": true
+ },
+ {
+  "verify_budget": 4,
+  "threshold": 65,
+  "games": 800,
+  "catch %": 78.9,
+  "median round": 6,
+  "false Q / game": 0.168,
+  "mean ledger err $": 117.69,
+  "default": false
+ },
+ {
+  "verify_budget": 5,
+  "threshold": 45,
+  "games": 800,
+  "catch %": 87.1,
+  "median round": 6,
+  "false Q / game": 0.439,
+  "mean ledger err $": 83.67,
+  "default": false
+ },
+ {
+  "verify_budget": 5,
+  "threshold": 55,
+  "games": 800,
+  "catch %": 84.1,
+  "median round": 6,
+  "false Q / game": 0.311,
+  "mean ledger err $": 89.69,
+  "default": false
+ },
+ {
+  "verify_budget": 5,
+  "threshold": 65,
+  "games": 800,
+  "catch %": 81.5,
+  "median round": 6.0,
+  "false Q / game": 0.21,
+  "mean ledger err $": 88.17,
+  "default": false
+ },
+ {
+  "verify_budget": 6,
+  "threshold": 45,
+  "games": 800,
+  "catch %": 87.5,
+  "median round": 6.0,
+  "false Q / game": 0.449,
+  "mean ledger err $": 78.03,
+  "default": false
+ },
+ {
+  "verify_budget": 6,
+  "threshold": 55,
+  "games": 800,
+  "catch %": 84.4,
+  "median round": 6,
+  "false Q / game": 0.326,
+  "mean ledger err $": 82.35,
+  "default": false
+ },
+ {
+  "verify_budget": 6,
+  "threshold": 65,
+  "games": 800,
+  "catch %": 82.1,
+  "median round": 6,
+  "false Q / game": 0.207,
+  "mean ledger err $": 83.11,
+  "default": false
+ }
+]

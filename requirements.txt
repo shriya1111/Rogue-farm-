@@ -1,0 +1,6 @@
+streamlit>=1.40
+plotly>=5.20
+pandas>=2.0
+requests>=2.31
+anthropic>=0.40   # optional: only for real-LLM mode / LLM reviewer
+pytest>=8.0

@@ -1,0 +1,667 @@
+{
+  "dev": {
+    "overall": {
+      "baseline": {
+        "games": 800,
+        "catch_rate": 92.1,
+        "catch_rate_ci95": [
+          90.1,
+          93.8
+        ],
+        "median_round_caught": 6,
+        "false_quarantines_per_game": 2.059,
+        "games_with_false_quarantine_pct": 89.4,
+        "mean_ledger_error": 666.1,
+        "median_ledger_error": 271.73,
+        "mean_ledger_error_pct": 4.146,
+        "verifications_per_game": 0
+      },
+      "agentshield": {
+        "games": 800,
+        "catch_rate": 81.6,
+        "catch_rate_ci95": [
+          78.8,
+          84.2
+        ],
+        "median_round_caught": 6,
+        "false_quarantines_per_game": 0.256,
+        "games_with_false_quarantine_pct": 24.4,
+        "mean_ledger_error": 116.92,
+        "median_ledger_error": 34.54,
+        "mean_ledger_error_pct": 0.734,
+        "verifications_per_game": 3.53
+      },
+      "agentshield_noverify": {
+        "games": 800,
+        "catch_rate": 52.6,
+        "catch_rate_ci95": [
+          49.2,
+          56.1
+        ],
+        "median_round_caught": 7,
+        "false_quarantines_per_game": 0.083,
+        "games_with_false_quarantine_pct": 8.0,
+        "mean_ledger_error": 326.18,
+        "median_ledger_error": 265.45,
+        "mean_ledger_error_pct": 2.014,
+        "verifications_per_game": 0
+      },
+      "no_monitor": {
+        "games": 800,
+        "catch_rate": 0.0,
+        "catch_rate_ci95": [
+          0.0,
+          0.5
+        ],
+        "median_round_caught": null,
+        "false_quarantines_per_game": 0.0,
+        "games_with_false_quarantine_pct": 0.0,
+        "mean_ledger_error": 389.0,
+        "median_ledger_error": 309.64,
+        "mean_ledger_error_pct": 2.381,
+        "verifications_per_game": 0
+      }
+    },
+    "by_strategy": {
+      "systematic": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 99.5,
+          "catch_rate_ci95": [
+            97.2,
+            99.9
+          ],
+          "median_round_caught": 4,
+          "false_quarantines_per_game": 2.235,
+          "games_with_false_quarantine_pct": 95.0,
+          "mean_ledger_error": 849.74,
+          "median_ledger_error": 372.4,
+          "mean_ledger_error_pct": 5.372,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 98.0,
+          "catch_rate_ci95": [
+            95.0,
+            99.2
+          ],
+          "median_round_caught": 4.0,
+          "false_quarantines_per_game": 0.255,
+          "games_with_false_quarantine_pct": 25.5,
+          "mean_ledger_error": 144.73,
+          "median_ledger_error": 62.83,
+          "mean_ledger_error_pct": 0.916,
+          "verifications_per_game": 3.68
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 82.0,
+          "catch_rate_ci95": [
+            76.1,
+            86.7
+          ],
+          "median_round_caught": 6.0,
+          "false_quarantines_per_game": 0.12,
+          "games_with_false_quarantine_pct": 11.5,
+          "mean_ledger_error": 439.7,
+          "median_ledger_error": 390.12,
+          "mean_ledger_error_pct": 2.723,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 643.82,
+          "median_ledger_error": 634.84,
+          "mean_ledger_error_pct": 3.934,
+          "verifications_per_game": 0
+        }
+      },
+      "intermittent": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 80.5,
+          "catch_rate_ci95": [
+            74.5,
+            85.4
+          ],
+          "median_round_caught": 7,
+          "false_quarantines_per_game": 1.9,
+          "games_with_false_quarantine_pct": 83.0,
+          "mean_ledger_error": 587.75,
+          "median_ledger_error": 258.92,
+          "mean_ledger_error_pct": 3.653,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 62.0,
+          "catch_rate_ci95": [
+            55.1,
+            68.4
+          ],
+          "median_round_caught": 7.0,
+          "false_quarantines_per_game": 0.235,
+          "games_with_false_quarantine_pct": 22.5,
+          "mean_ledger_error": 103.82,
+          "median_ledger_error": 19.43,
+          "mean_ledger_error_pct": 0.638,
+          "verifications_per_game": 3.34
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 25.0,
+          "catch_rate_ci95": [
+            19.5,
+            31.4
+          ],
+          "median_round_caught": 8.0,
+          "false_quarantines_per_game": 0.055,
+          "games_with_false_quarantine_pct": 5.5,
+          "mean_ledger_error": 298.53,
+          "median_ledger_error": 263.61,
+          "mean_ledger_error_pct": 1.845,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 323.41,
+          "median_ledger_error": 286.71,
+          "mean_ledger_error_pct": 1.99,
+          "verifications_per_game": 0
+        }
+      },
+      "delayed": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 89.0,
+          "catch_rate_ci95": [
+            83.9,
+            92.6
+          ],
+          "median_round_caught": 9.0,
+          "false_quarantines_per_game": 1.865,
+          "games_with_false_quarantine_pct": 84.5,
+          "mean_ledger_error": 500.87,
+          "median_ledger_error": 283.33,
+          "mean_ledger_error_pct": 2.968,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 69.0,
+          "catch_rate_ci95": [
+            62.3,
+            75.0
+          ],
+          "median_round_caught": 10.0,
+          "false_quarantines_per_game": 0.28,
+          "games_with_false_quarantine_pct": 24.0,
+          "mean_ledger_error": 128.48,
+          "median_ledger_error": 17.64,
+          "mean_ledger_error_pct": 0.811,
+          "verifications_per_game": 3.44
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 30.0,
+          "catch_rate_ci95": [
+            24.1,
+            36.7
+          ],
+          "median_round_caught": 11.0,
+          "false_quarantines_per_game": 0.045,
+          "games_with_false_quarantine_pct": 4.5,
+          "mean_ledger_error": 354.65,
+          "median_ledger_error": 302.88,
+          "mean_ledger_error_pct": 2.168,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 356.44,
+          "median_ledger_error": 313.29,
+          "mean_ledger_error_pct": 2.19,
+          "verifications_per_game": 0
+        }
+      },
+      "subtle": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 99.5,
+          "catch_rate_ci95": [
+            97.2,
+            99.9
+          ],
+          "median_round_caught": 4,
+          "false_quarantines_per_game": 2.235,
+          "games_with_false_quarantine_pct": 95.0,
+          "mean_ledger_error": 726.03,
+          "median_ledger_error": 187.63,
+          "mean_ledger_error_pct": 4.59,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 97.5,
+          "catch_rate_ci95": [
+            94.3,
+            98.9
+          ],
+          "median_round_caught": 4,
+          "false_quarantines_per_game": 0.255,
+          "games_with_false_quarantine_pct": 25.5,
+          "mean_ledger_error": 90.64,
+          "median_ledger_error": 38.0,
+          "mean_ledger_error_pct": 0.573,
+          "verifications_per_game": 3.68
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 73.5,
+          "catch_rate_ci95": [
+            67.0,
+            79.1
+          ],
+          "median_round_caught": 6,
+          "false_quarantines_per_game": 0.11,
+          "games_with_false_quarantine_pct": 10.5,
+          "mean_ledger_error": 211.83,
+          "median_ledger_error": 157.81,
+          "mean_ledger_error_pct": 1.322,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 232.31,
+          "median_ledger_error": 178.69,
+          "mean_ledger_error_pct": 1.411,
+          "verifications_per_game": 0
+        }
+      }
+    },
+    "trajectory": {
+      "matched_games": 800,
+      "identical_full_game_pct": 12.9,
+      "median_divergence_round": 7,
+      "note": "Games are identical across monitors until one of them quarantines an agent the other did not; after that, different agents are paired, so later items are answered by different agents. 'identical_full_game_pct' counts games where both monitors made exactly the same quarantines at the same rounds."
+    },
+    "seeds": [
+      0,
+      199
+    ]
+  },
+  "test": {
+    "overall": {
+      "baseline": {
+        "games": 800,
+        "catch_rate": 90.0,
+        "catch_rate_ci95": [
+          87.7,
+          91.9
+        ],
+        "median_round_caught": 6.0,
+        "false_quarantines_per_game": 1.914,
+        "games_with_false_quarantine_pct": 83.0,
+        "mean_ledger_error": 551.62,
+        "median_ledger_error": 228.1,
+        "mean_ledger_error_pct": 3.289,
+        "verifications_per_game": 0
+      },
+      "agentshield": {
+        "games": 800,
+        "catch_rate": 80.5,
+        "catch_rate_ci95": [
+          77.6,
+          83.1
+        ],
+        "median_round_caught": 6.0,
+        "false_quarantines_per_game": 0.189,
+        "games_with_false_quarantine_pct": 17.5,
+        "mean_ledger_error": 93.08,
+        "median_ledger_error": 9.8,
+        "mean_ledger_error_pct": 0.586,
+        "verifications_per_game": 3.38
+      },
+      "agentshield_noverify": {
+        "games": 800,
+        "catch_rate": 55.0,
+        "catch_rate_ci95": [
+          51.5,
+          58.4
+        ],
+        "median_round_caught": 7.0,
+        "false_quarantines_per_game": 0.055,
+        "games_with_false_quarantine_pct": 5.5,
+        "mean_ledger_error": 313.35,
+        "median_ledger_error": 258.92,
+        "mean_ledger_error_pct": 1.938,
+        "verifications_per_game": 0
+      },
+      "no_monitor": {
+        "games": 800,
+        "catch_rate": 0.0,
+        "catch_rate_ci95": [
+          0.0,
+          0.5
+        ],
+        "median_round_caught": null,
+        "false_quarantines_per_game": 0.0,
+        "games_with_false_quarantine_pct": 0.0,
+        "mean_ledger_error": 363.39,
+        "median_ledger_error": 282.99,
+        "mean_ledger_error_pct": 2.239,
+        "verifications_per_game": 0
+      }
+    },
+    "by_strategy": {
+      "systematic": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 100.0,
+          "catch_rate_ci95": [
+            98.1,
+            100.0
+          ],
+          "median_round_caught": 5.0,
+          "false_quarantines_per_game": 2.165,
+          "games_with_false_quarantine_pct": 87.0,
+          "mean_ledger_error": 718.41,
+          "median_ledger_error": 320.01,
+          "mean_ledger_error_pct": 4.282,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 98.0,
+          "catch_rate_ci95": [
+            95.0,
+            99.2
+          ],
+          "median_round_caught": 4.0,
+          "false_quarantines_per_game": 0.22,
+          "games_with_false_quarantine_pct": 20.5,
+          "mean_ledger_error": 111.76,
+          "median_ledger_error": 21.79,
+          "mean_ledger_error_pct": 0.7,
+          "verifications_per_game": 3.54
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 87.0,
+          "catch_rate_ci95": [
+            81.6,
+            91.0
+          ],
+          "median_round_caught": 7.0,
+          "false_quarantines_per_game": 0.09,
+          "games_with_false_quarantine_pct": 9.0,
+          "mean_ledger_error": 432.24,
+          "median_ledger_error": 394.15,
+          "mean_ledger_error_pct": 2.648,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 611.64,
+          "median_ledger_error": 619.61,
+          "mean_ledger_error_pct": 3.736,
+          "verifications_per_game": 0
+        }
+      },
+      "intermittent": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 75.5,
+          "catch_rate_ci95": [
+            69.1,
+            80.9
+          ],
+          "median_round_caught": 7,
+          "false_quarantines_per_game": 1.7,
+          "games_with_false_quarantine_pct": 80.5,
+          "mean_ledger_error": 459.39,
+          "median_ledger_error": 222.72,
+          "mean_ledger_error_pct": 2.733,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 60.0,
+          "catch_rate_ci95": [
+            53.1,
+            66.5
+          ],
+          "median_round_caught": 7.0,
+          "false_quarantines_per_game": 0.135,
+          "games_with_false_quarantine_pct": 13.5,
+          "mean_ledger_error": 81.8,
+          "median_ledger_error": 0.0,
+          "mean_ledger_error_pct": 0.518,
+          "verifications_per_game": 3.18
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 27.0,
+          "catch_rate_ci95": [
+            21.3,
+            33.5
+          ],
+          "median_round_caught": 8.0,
+          "false_quarantines_per_game": 0.025,
+          "games_with_false_quarantine_pct": 2.5,
+          "mean_ledger_error": 305.93,
+          "median_ledger_error": 269.01,
+          "mean_ledger_error_pct": 1.898,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 311.71,
+          "median_ledger_error": 271.6,
+          "mean_ledger_error_pct": 1.928,
+          "verifications_per_game": 0
+        }
+      },
+      "delayed": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 84.5,
+          "catch_rate_ci95": [
+            78.8,
+            88.9
+          ],
+          "median_round_caught": 9,
+          "false_quarantines_per_game": 1.625,
+          "games_with_false_quarantine_pct": 77.5,
+          "mean_ledger_error": 436.95,
+          "median_ledger_error": 230.76,
+          "mean_ledger_error_pct": 2.629,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 67.0,
+          "catch_rate_ci95": [
+            60.2,
+            73.1
+          ],
+          "median_round_caught": 10.0,
+          "false_quarantines_per_game": 0.18,
+          "games_with_false_quarantine_pct": 15.5,
+          "mean_ledger_error": 103.03,
+          "median_ledger_error": 8.7,
+          "mean_ledger_error_pct": 0.647,
+          "verifications_per_game": 3.27
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 28.5,
+          "catch_rate_ci95": [
+            22.7,
+            35.1
+          ],
+          "median_round_caught": 11,
+          "false_quarantines_per_game": 0.03,
+          "games_with_false_quarantine_pct": 3.0,
+          "mean_ledger_error": 311.3,
+          "median_ledger_error": 260.24,
+          "mean_ledger_error_pct": 1.936,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 321.1,
+          "median_ledger_error": 263.61,
+          "mean_ledger_error_pct": 1.994,
+          "verifications_per_game": 0
+        }
+      },
+      "subtle": {
+        "baseline": {
+          "games": 200,
+          "catch_rate": 100.0,
+          "catch_rate_ci95": [
+            98.1,
+            100.0
+          ],
+          "median_round_caught": 5.0,
+          "false_quarantines_per_game": 2.165,
+          "games_with_false_quarantine_pct": 87.0,
+          "mean_ledger_error": 591.74,
+          "median_ledger_error": 155.95,
+          "mean_ledger_error_pct": 3.511,
+          "verifications_per_game": 0
+        },
+        "agentshield": {
+          "games": 200,
+          "catch_rate": 97.0,
+          "catch_rate_ci95": [
+            93.6,
+            98.6
+          ],
+          "median_round_caught": 4.0,
+          "false_quarantines_per_game": 0.22,
+          "games_with_false_quarantine_pct": 20.5,
+          "mean_ledger_error": 75.7,
+          "median_ledger_error": 18.66,
+          "mean_ledger_error_pct": 0.479,
+          "verifications_per_game": 3.54
+        },
+        "agentshield_noverify": {
+          "games": 200,
+          "catch_rate": 77.5,
+          "catch_rate_ci95": [
+            71.2,
+            82.7
+          ],
+          "median_round_caught": 7,
+          "false_quarantines_per_game": 0.075,
+          "games_with_false_quarantine_pct": 7.5,
+          "mean_ledger_error": 203.94,
+          "median_ledger_error": 152.57,
+          "mean_ledger_error_pct": 1.27,
+          "verifications_per_game": 0
+        },
+        "no_monitor": {
+          "games": 200,
+          "catch_rate": 0.0,
+          "catch_rate_ci95": [
+            0.0,
+            1.9
+          ],
+          "median_round_caught": null,
+          "false_quarantines_per_game": 0.0,
+          "games_with_false_quarantine_pct": 0.0,
+          "mean_ledger_error": 209.09,
+          "median_ledger_error": 171.54,
+          "mean_ledger_error_pct": 1.298,
+          "verifications_per_game": 0
+        }
+      }
+    },
+    "trajectory": {
+      "matched_games": 800,
+      "identical_full_game_pct": 19.4,
+      "median_divergence_round": 8,
+      "note": "Games are identical across monitors until one of them quarantines an agent the other did not; after that, different agents are paired, so later items are answered by different agents. 'identical_full_game_pct' counts games where both monitors made exactly the same quarantines at the same rounds."
+    },
+    "seeds": [
+      10000,
+      10199
+    ]
+  },
+  "meta": {
+    "games_per_strategy_per_split": 200,
+    "strategies": [
+      "systematic",
+      "intermittent",
+      "delayed",
+      "subtle"
+    ],
+    "monitors": [
+      "baseline",
+      "agentshield",
+      "agentshield_noverify",
+      "no_monitor"
+    ],
+    "runtime_sec": 5.2,
+    "mode": "mock (scripted agents, deterministic)"
+  }
+}

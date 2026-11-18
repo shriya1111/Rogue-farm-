@@ -1,0 +1,800 @@
+{"strategy": "systematic", "seed": 10000, "diverge_round": 4, "baseline_q": "R2:A1;R3:A5", "shield_q": "R2:A1;R7:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10001, "diverge_round": 5, "baseline_q": "R4:A4;R5:A5;R8:A2", "shield_q": "R4:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10002, "diverge_round": 7, "baseline_q": "R5:A2;R6:A3;R10:A4;R11:A1;R12:A5", "shield_q": "R5:A2", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10003, "diverge_round": 5, "baseline_q": "R4:A1;R5:A4;R6:A5", "shield_q": "R7:A4", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10004, "diverge_round": 9, "baseline_q": "R3:A5;R7:A2;R8:A3;R9:A1;R10:A4", "shield_q": "R3:A5;R7:A2", "sabotage_rounds": [5, 7]}
+{"strategy": "systematic", "seed": 10005, "diverge_round": 12, "baseline_q": "R5:A4;R11:A5", "shield_q": "R5:A4", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10006, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2;R9:A4", "shield_q": "R4:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10007, "diverge_round": 8, "baseline_q": "R3:A5;R7:A4", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10008, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2;R6:A4;R7:A5", "shield_q": "R4:A2;R6:A1", "sabotage_rounds": [1, 4, 5]}
+{"strategy": "systematic", "seed": 10009, "diverge_round": 4, "baseline_q": "R3:A5;R5:A1;R9:A3", "shield_q": "", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10010, "diverge_round": null, "baseline_q": "R9:A5;R12:A3", "shield_q": "R9:A5", "sabotage_rounds": [5, 9]}
+{"strategy": "systematic", "seed": 10011, "diverge_round": 5, "baseline_q": "R4:A1;R5:A4;R8:A5;R11:A2", "shield_q": "R4:A4", "sabotage_rounds": [1, 4, 5]}
+{"strategy": "systematic", "seed": 10012, "diverge_round": 8, "baseline_q": "R2:A5;R7:A4;R8:A2;R9:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10013, "diverge_round": null, "baseline_q": "R3:A3", "shield_q": "R3:A3", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10014, "diverge_round": 4, "baseline_q": "R3:A3;R5:A2", "shield_q": "R4:A2;R6:A3", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10015, "diverge_round": 11, "baseline_q": "R3:A1;R10:A2;R11:A5;R12:A3", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10016, "diverge_round": 5, "baseline_q": "R4:A4;R5:A5;R6:A1;R9:A2", "shield_q": "R4:A5", "sabotage_rounds": [3, 4, 5]}
+{"strategy": "systematic", "seed": 10017, "diverge_round": 12, "baseline_q": "R4:A4;R11:A3;R12:A2", "shield_q": "R4:A4;R12:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10018, "diverge_round": 11, "baseline_q": "R3:A3;R10:A1;R11:A4", "shield_q": "R3:A3", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10019, "diverge_round": 6, "baseline_q": "R4:A5;R5:A1;R8:A3;R9:A4", "shield_q": "R4:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10020, "diverge_round": null, "baseline_q": "R4:A1", "shield_q": "R4:A1", "sabotage_rounds": [3, 4]}
+{"strategy": "systematic", "seed": 10021, "diverge_round": null, "baseline_q": "R3:A2", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10022, "diverge_round": 6, "baseline_q": "R3:A3;R5:A4;R11:A5", "shield_q": "R3:A3", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10023, "diverge_round": 5, "baseline_q": "R4:A3;R7:A1;R8:A4;R10:A2", "shield_q": "R7:A3", "sabotage_rounds": [3, 4]}
+{"strategy": "systematic", "seed": 10024, "diverge_round": null, "baseline_q": "R3:A1", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10025, "diverge_round": 11, "baseline_q": "R9:A3;R10:A1;R11:A2;R12:A5", "shield_q": "R9:A3;R12:A2", "sabotage_rounds": [6, 9]}
+{"strategy": "systematic", "seed": 10026, "diverge_round": 6, "baseline_q": "R3:A2;R5:A4;R6:A3;R8:A1;R9:A5", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10027, "diverge_round": 11, "baseline_q": "R8:A1;R10:A5", "shield_q": "R8:A1", "sabotage_rounds": [4, 8]}
+{"strategy": "systematic", "seed": 10028, "diverge_round": 7, "baseline_q": "R5:A1;R6:A3", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10029, "diverge_round": 7, "baseline_q": "R5:A1;R6:A4;R8:A5", "shield_q": "R5:A1;R8:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10030, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5;R8:A1", "shield_q": "R4:A5", "sabotage_rounds": [1, 4, 5]}
+{"strategy": "systematic", "seed": 10031, "diverge_round": 6, "baseline_q": "R5:A2;R6:A3;R7:A5;R10:A1;R11:A4", "shield_q": "", "sabotage_rounds": [5, 6]}
+{"strategy": "systematic", "seed": 10032, "diverge_round": 9, "baseline_q": "R6:A2;R8:A4;R11:A1;R12:A5", "shield_q": "R6:A2", "sabotage_rounds": [4, 6]}
+{"strategy": "systematic", "seed": 10033, "diverge_round": null, "baseline_q": "R9:A3", "shield_q": "R9:A3", "sabotage_rounds": [5, 9]}
+{"strategy": "systematic", "seed": 10034, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2", "shield_q": "R4:A2", "sabotage_rounds": [3, 4]}
+{"strategy": "systematic", "seed": 10035, "diverge_round": 7, "baseline_q": "R5:A4;R6:A1;R7:A5;R8:A3", "shield_q": "R5:A4", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10036, "diverge_round": 7, "baseline_q": "R5:A1;R6:A3;R7:A4", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10037, "diverge_round": 9, "baseline_q": "R6:A4;R8:A2;R9:A5;R11:A1;R12:A3", "shield_q": "R6:A4", "sabotage_rounds": [2, 6]}
+{"strategy": "systematic", "seed": 10038, "diverge_round": 10, "baseline_q": "R2:A1;R9:A2;R10:A4;R11:A3", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10039, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10040, "diverge_round": 3, "baseline_q": "R2:A1;R4:A5;R5:A2;R6:A4", "shield_q": "R4:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10041, "diverge_round": 6, "baseline_q": "R4:A3;R5:A1;R12:A2", "shield_q": "R4:A3", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10042, "diverge_round": 5, "baseline_q": "R2:A3;R4:A4;R10:A1;R12:A2", "shield_q": "R2:A3;R11:A2;R12:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10043, "diverge_round": 10, "baseline_q": "R3:A5;R9:A3;R10:A1;R11:A2", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10044, "diverge_round": 5, "baseline_q": "R3:A3;R4:A4;R8:A1;R9:A5", "shield_q": "R3:A3;R9:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10045, "diverge_round": 7, "baseline_q": "R6:A1;R7:A4;R9:A3", "shield_q": "R6:A4", "sabotage_rounds": [3, 6, 7]}
+{"strategy": "systematic", "seed": 10046, "diverge_round": 9, "baseline_q": "R6:A2;R8:A4;R9:A3;R10:A1;R11:A5", "shield_q": "R6:A2;R10:A3", "sabotage_rounds": [3, 6]}
+{"strategy": "systematic", "seed": 10047, "diverge_round": 6, "baseline_q": "R5:A1;R6:A4;R7:A5", "shield_q": "R5:A4", "sabotage_rounds": [3, 5, 6]}
+{"strategy": "systematic", "seed": 10048, "diverge_round": 5, "baseline_q": "R4:A4;R5:A2", "shield_q": "R6:A2", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10049, "diverge_round": 10, "baseline_q": "R5:A4;R9:A3;R10:A1;R11:A2", "shield_q": "R5:A4", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10050, "diverge_round": 9, "baseline_q": "R4:A1;R8:A2", "shield_q": "R4:A1", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10051, "diverge_round": 5, "baseline_q": "R4:A4;R5:A1;R6:A2;R8:A3;R9:A5", "shield_q": "R8:A1;R9:A3", "sabotage_rounds": [1, 5]}
+{"strategy": "systematic", "seed": 10052, "diverge_round": null, "baseline_q": "R4:A4", "shield_q": "R4:A4", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10053, "diverge_round": 9, "baseline_q": "R3:A2;R8:A1", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10054, "diverge_round": null, "baseline_q": "R7:A4;R12:A3", "shield_q": "R7:A4", "sabotage_rounds": [4, 7]}
+{"strategy": "systematic", "seed": 10055, "diverge_round": 7, "baseline_q": "R6:A2;R7:A5", "shield_q": "R6:A5", "sabotage_rounds": [4, 6, 7]}
+{"strategy": "systematic", "seed": 10056, "diverge_round": null, "baseline_q": "R2:A4", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10057, "diverge_round": 5, "baseline_q": "R2:A2;R4:A1;R9:A5;R12:A3", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10058, "diverge_round": 11, "baseline_q": "R7:A1;R10:A2", "shield_q": "R7:A1", "sabotage_rounds": [6, 7]}
+{"strategy": "systematic", "seed": 10059, "diverge_round": 8, "baseline_q": "R7:A3;R8:A1;R9:A5", "shield_q": "R8:A1", "sabotage_rounds": [5, 8]}
+{"strategy": "systematic", "seed": 10060, "diverge_round": 6, "baseline_q": "R5:A3;R6:A5;R11:A1;R12:A2", "shield_q": "R5:A5", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10061, "diverge_round": 3, "baseline_q": "R2:A5;R4:A1;R7:A3", "shield_q": "R5:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10062, "diverge_round": 10, "baseline_q": "R2:A1;R9:A2", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10063, "diverge_round": 9, "baseline_q": "R8:A3;R9:A5;R10:A2;R11:A4", "shield_q": "R8:A5", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "systematic", "seed": 10064, "diverge_round": 12, "baseline_q": "R6:A4;R11:A1;R12:A3", "shield_q": "R6:A4", "sabotage_rounds": [1, 6]}
+{"strategy": "systematic", "seed": 10065, "diverge_round": 12, "baseline_q": "R11:A3;R12:A2", "shield_q": "", "sabotage_rounds": [6, 12]}
+{"strategy": "systematic", "seed": 10066, "diverge_round": 7, "baseline_q": "R2:A4;R6:A3", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10067, "diverge_round": 8, "baseline_q": "R6:A2;R7:A4", "shield_q": "R6:A2", "sabotage_rounds": [4, 6]}
+{"strategy": "systematic", "seed": 10068, "diverge_round": 7, "baseline_q": "R5:A5;R6:A1;R7:A3;R8:A4", "shield_q": "R5:A5", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10069, "diverge_round": 11, "baseline_q": "R7:A2;R10:A1;R11:A4", "shield_q": "R7:A2", "sabotage_rounds": [6, 7]}
+{"strategy": "systematic", "seed": 10070, "diverge_round": 5, "baseline_q": "R4:A2;R5:A3;R12:A4", "shield_q": "R8:A3;R11:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10071, "diverge_round": null, "baseline_q": "R3:A5;R11:A1;R12:A3", "shield_q": "R3:A5;R11:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10072, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4;R10:A5;R11:A2", "shield_q": "R12:A4", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "systematic", "seed": 10073, "diverge_round": 9, "baseline_q": "R7:A1;R8:A3;R9:A4", "shield_q": "R7:A1", "sabotage_rounds": [4, 7]}
+{"strategy": "systematic", "seed": 10074, "diverge_round": 10, "baseline_q": "R6:A4;R9:A2;R10:A3;R11:A1;R12:A5", "shield_q": "R6:A4;R11:A1", "sabotage_rounds": [3, 10, 11]}
+{"strategy": "systematic", "seed": 10075, "diverge_round": 7, "baseline_q": "R5:A3;R6:A1;R7:A5;R8:A2;R9:A4", "shield_q": "R5:A3;R7:A1;R9:A5", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10076, "diverge_round": 11, "baseline_q": "R3:A1;R10:A3;R12:A4", "shield_q": "R3:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10077, "diverge_round": null, "baseline_q": "R3:A2;R12:A4", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10078, "diverge_round": 8, "baseline_q": "R4:A1;R7:A3;R8:A5;R9:A4", "shield_q": "R4:A1", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10079, "diverge_round": null, "baseline_q": "R4:A2", "shield_q": "R4:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10080, "diverge_round": 4, "baseline_q": "R3:A2;R4:A5;R6:A3;R7:A4", "shield_q": "R3:A5;R10:A3", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10081, "diverge_round": 4, "baseline_q": "R2:A2;R3:A5;R6:A3;R12:A1", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10082, "diverge_round": 3, "baseline_q": "R2:A4;R4:A3;R6:A1;R11:A2;R12:A5", "shield_q": "R5:A1", "sabotage_rounds": [4, 6]}
+{"strategy": "systematic", "seed": 10083, "diverge_round": 9, "baseline_q": "R6:A3;R8:A2", "shield_q": "R6:A3", "sabotage_rounds": [5, 6]}
+{"strategy": "systematic", "seed": 10084, "diverge_round": 9, "baseline_q": "R2:A4;R8:A3;R12:A1", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10085, "diverge_round": 6, "baseline_q": "R2:A5;R5:A1;R9:A4;R10:A2;R11:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10086, "diverge_round": null, "baseline_q": "R4:A4", "shield_q": "R4:A4", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10087, "diverge_round": 4, "baseline_q": "R3:A1;R4:A2;R5:A3;R6:A4;R7:A5", "shield_q": "R8:A1;R9:A5;R10:A3", "sabotage_rounds": [2, 6, 7]}
+{"strategy": "systematic", "seed": 10088, "diverge_round": 5, "baseline_q": "R3:A2;R4:A3;R11:A1;R12:A5", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10089, "diverge_round": null, "baseline_q": "R3:A4", "shield_q": "R3:A4", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10090, "diverge_round": 11, "baseline_q": "R10:A1;R11:A2;R12:A4", "shield_q": "R11:A2", "sabotage_rounds": [1, 11]}
+{"strategy": "systematic", "seed": 10091, "diverge_round": 9, "baseline_q": "R8:A1;R10:A5;R11:A3;R12:A4", "shield_q": "R10:A5;R12:A1", "sabotage_rounds": [7, 10]}
+{"strategy": "systematic", "seed": 10092, "diverge_round": 11, "baseline_q": "R3:A1;R10:A4", "shield_q": "R3:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10093, "diverge_round": 6, "baseline_q": "R4:A3;R5:A4;R10:A1;R11:A2;R12:A5", "shield_q": "R4:A3", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10094, "diverge_round": null, "baseline_q": "R6:A1;R7:A4", "shield_q": "R6:A1;R7:A4", "sabotage_rounds": [5, 7]}
+{"strategy": "systematic", "seed": 10095, "diverge_round": 6, "baseline_q": "R5:A1;R6:A2;R11:A4;R12:A5", "shield_q": "R5:A2", "sabotage_rounds": [2, 5, 6]}
+{"strategy": "systematic", "seed": 10096, "diverge_round": 4, "baseline_q": "R2:A1;R3:A4;R5:A2;R10:A3;R11:A5", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10097, "diverge_round": 9, "baseline_q": "R3:A1;R8:A4;R12:A2", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10098, "diverge_round": 5, "baseline_q": "R3:A1;R4:A3;R6:A2;R7:A4", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10099, "diverge_round": 6, "baseline_q": "R4:A1;R5:A5;R8:A2;R12:A3", "shield_q": "R4:A1;R11:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10100, "diverge_round": 3, "baseline_q": "R2:A5;R3:A3;R7:A4;R8:A1;R9:A2", "shield_q": "R4:A3;R7:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10101, "diverge_round": 7, "baseline_q": "R5:A1;R6:A3;R7:A2", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10102, "diverge_round": null, "baseline_q": "R2:A2", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10103, "diverge_round": 8, "baseline_q": "R7:A4;R8:A5;R11:A2", "shield_q": "R7:A5", "sabotage_rounds": [1, 7]}
+{"strategy": "systematic", "seed": 10104, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2;R7:A5;R8:A3;R9:A4", "shield_q": "R4:A2;R5:A1", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10105, "diverge_round": null, "baseline_q": "R6:A4", "shield_q": "R6:A4", "sabotage_rounds": [3, 6]}
+{"strategy": "systematic", "seed": 10106, "diverge_round": 5, "baseline_q": "R4:A4;R5:A2;R8:A1;R11:A3;R12:A5", "shield_q": "R6:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10107, "diverge_round": 7, "baseline_q": "R6:A4;R7:A5;R8:A1;R9:A2;R10:A3", "shield_q": "R7:A1", "sabotage_rounds": [1, 7, 8]}
+{"strategy": "systematic", "seed": 10108, "diverge_round": 7, "baseline_q": "R3:A4;R6:A1;R7:A2", "shield_q": "R3:A4", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10109, "diverge_round": 5, "baseline_q": "R2:A3;R4:A1;R5:A5;R6:A2;R7:A4", "shield_q": "R2:A3;R9:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10110, "diverge_round": null, "baseline_q": "R3:A1", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10111, "diverge_round": 4, "baseline_q": "R3:A2;R7:A3;R9:A4;R10:A5", "shield_q": "R5:A3", "sabotage_rounds": [3, 7]}
+{"strategy": "systematic", "seed": 10112, "diverge_round": null, "baseline_q": "R3:A2", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10113, "diverge_round": 4, "baseline_q": "R2:A4;R3:A2;R4:A5;R10:A1;R11:A3", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10114, "diverge_round": null, "baseline_q": "R2:A1", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10115, "diverge_round": 11, "baseline_q": "R9:A1;R10:A3", "shield_q": "R9:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "systematic", "seed": 10116, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10117, "diverge_round": 4, "baseline_q": "R3:A1;R4:A3;R6:A2", "shield_q": "R3:A3", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10118, "diverge_round": 7, "baseline_q": "R5:A2;R6:A3;R8:A1;R9:A4;R10:A5", "shield_q": "R5:A2;R7:A3", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10119, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4", "shield_q": "R8:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "systematic", "seed": 10120, "diverge_round": 7, "baseline_q": "R6:A4;R7:A5;R8:A1", "shield_q": "R6:A5", "sabotage_rounds": [1, 6, 7]}
+{"strategy": "systematic", "seed": 10121, "diverge_round": null, "baseline_q": "R2:A3", "shield_q": "R2:A3", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10122, "diverge_round": null, "baseline_q": "R6:A2", "shield_q": "R6:A2", "sabotage_rounds": [1, 6]}
+{"strategy": "systematic", "seed": 10123, "diverge_round": 4, "baseline_q": "R3:A4;R4:A5;R5:A2;R6:A3", "shield_q": "R8:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10124, "diverge_round": 3, "baseline_q": "R2:A4;R3:A5;R7:A1;R8:A3", "shield_q": "R2:A5;R6:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10125, "diverge_round": 12, "baseline_q": "R2:A5;R11:A2;R12:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10126, "diverge_round": 11, "baseline_q": "R4:A3;R10:A2;R11:A4;R12:A5", "shield_q": "R4:A3", "sabotage_rounds": [3, 4]}
+{"strategy": "systematic", "seed": 10127, "diverge_round": 10, "baseline_q": "R2:A1;R9:A3;R10:A5;R12:A2", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10128, "diverge_round": 7, "baseline_q": "R3:A4;R6:A1", "shield_q": "R3:A4", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10129, "diverge_round": 6, "baseline_q": "R4:A1;R5:A2;R6:A3", "shield_q": "R4:A1;R10:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10130, "diverge_round": 5, "baseline_q": "R3:A5;R4:A3", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10131, "diverge_round": 5, "baseline_q": "R3:A2;R4:A5", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10132, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5", "shield_q": "R4:A5", "sabotage_rounds": [3, 4, 5]}
+{"strategy": "systematic", "seed": 10133, "diverge_round": null, "baseline_q": "R4:A4", "shield_q": "R4:A4", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10134, "diverge_round": 8, "baseline_q": "R3:A5;R7:A1;R11:A3", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10135, "diverge_round": 11, "baseline_q": "R6:A2;R10:A4", "shield_q": "R6:A2", "sabotage_rounds": [3, 6]}
+{"strategy": "systematic", "seed": 10136, "diverge_round": 5, "baseline_q": "R4:A3;R6:A1;R7:A2;R12:A4", "shield_q": "R6:A2", "sabotage_rounds": [4, 6]}
+{"strategy": "systematic", "seed": 10137, "diverge_round": 4, "baseline_q": "R2:A2;R3:A3;R5:A4;R10:A1;R11:A5", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10138, "diverge_round": 5, "baseline_q": "R4:A1;R6:A2;R8:A5;R9:A3;R10:A4", "shield_q": "R7:A4", "sabotage_rounds": [8, 9, 10]}
+{"strategy": "systematic", "seed": 10139, "diverge_round": 5, "baseline_q": "R3:A4;R4:A5;R6:A2;R7:A1;R8:A3", "shield_q": "R3:A4;R5:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10140, "diverge_round": 4, "baseline_q": "R3:A1;R4:A5;R7:A2;R8:A3", "shield_q": "R3:A5", "sabotage_rounds": [2, 3, 4]}
+{"strategy": "systematic", "seed": 10141, "diverge_round": 8, "baseline_q": "R6:A5;R7:A4;R8:A3;R10:A1;R11:A2", "shield_q": "R6:A5", "sabotage_rounds": [5, 6]}
+{"strategy": "systematic", "seed": 10142, "diverge_round": 4, "baseline_q": "R3:A2;R5:A4;R6:A5;R11:A1", "shield_q": "R7:A4;R8:A5", "sabotage_rounds": [2, 5, 6]}
+{"strategy": "systematic", "seed": 10143, "diverge_round": 7, "baseline_q": "R2:A4;R6:A3;R7:A5;R8:A2", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10144, "diverge_round": 11, "baseline_q": "R3:A5;R10:A3", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10145, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5;R7:A1;R8:A3", "shield_q": "R4:A5", "sabotage_rounds": [3, 4, 5]}
+{"strategy": "systematic", "seed": 10146, "diverge_round": 8, "baseline_q": "R5:A5;R7:A4;R8:A2;R9:A1;R10:A3", "shield_q": "R5:A5", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10147, "diverge_round": 12, "baseline_q": "R2:A1;R11:A2;R12:A4", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10148, "diverge_round": 8, "baseline_q": "R5:A1;R7:A3", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10149, "diverge_round": 9, "baseline_q": "R6:A2;R8:A3;R9:A5", "shield_q": "R6:A2", "sabotage_rounds": [5, 6]}
+{"strategy": "systematic", "seed": 10150, "diverge_round": 6, "baseline_q": "R5:A4;R7:A1;R8:A3;R9:A2;R10:A5", "shield_q": "R12:A3", "sabotage_rounds": [6, 7]}
+{"strategy": "systematic", "seed": 10151, "diverge_round": 5, "baseline_q": "R4:A5;R6:A3;R7:A4;R9:A1;R10:A2", "shield_q": "R6:A3", "sabotage_rounds": [4, 6]}
+{"strategy": "systematic", "seed": 10152, "diverge_round": 12, "baseline_q": "R5:A4;R7:A2;R11:A5", "shield_q": "R5:A4;R7:A2", "sabotage_rounds": [2, 7]}
+{"strategy": "systematic", "seed": 10153, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [4, 5]}
+{"strategy": "systematic", "seed": 10154, "diverge_round": 6, "baseline_q": "R3:A1;R5:A2;R6:A4;R7:A3;R8:A5", "shield_q": "R3:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10155, "diverge_round": 4, "baseline_q": "R3:A3;R4:A2;R5:A4", "shield_q": "R6:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10156, "diverge_round": 6, "baseline_q": "R3:A5;R5:A1;R6:A4;R10:A2;R11:A3", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10157, "diverge_round": 7, "baseline_q": "R5:A2;R6:A1;R7:A3;R9:A4;R10:A5", "shield_q": "R5:A2;R9:A1", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10158, "diverge_round": 5, "baseline_q": "R3:A2;R4:A4;R7:A1;R11:A3;R12:A5", "shield_q": "R3:A2;R7:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10159, "diverge_round": 12, "baseline_q": "R10:A1;R11:A4;R12:A5", "shield_q": "R10:A1", "sabotage_rounds": [3, 10]}
+{"strategy": "systematic", "seed": 10160, "diverge_round": 4, "baseline_q": "R2:A2;R3:A3;R11:A1", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10161, "diverge_round": 6, "baseline_q": "R2:A2;R5:A1;R7:A3;R8:A5", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10162, "diverge_round": 4, "baseline_q": "R3:A1;R4:A3;R6:A2;R11:A4;R12:A5", "shield_q": "R5:A3;R6:A5", "sabotage_rounds": [3, 4]}
+{"strategy": "systematic", "seed": 10163, "diverge_round": 7, "baseline_q": "R6:A1;R7:A4;R8:A2;R12:A3", "shield_q": "R7:A2", "sabotage_rounds": [2, 8]}
+{"strategy": "systematic", "seed": 10164, "diverge_round": 7, "baseline_q": "R2:A3;R6:A1;R7:A2;R9:A4;R10:A5", "shield_q": "R2:A3;R7:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10165, "diverge_round": 8, "baseline_q": "R6:A1;R7:A5;R8:A3;R9:A4", "shield_q": "R6:A1;R9:A5", "sabotage_rounds": [4, 6]}
+{"strategy": "systematic", "seed": 10166, "diverge_round": 3, "baseline_q": "R2:A2;R4:A3;R8:A1;R9:A4;R10:A5", "shield_q": "R5:A3", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10167, "diverge_round": 3, "baseline_q": "R2:A2;R4:A1;R8:A5;R9:A3;R10:A4", "shield_q": "R3:A1;R12:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10168, "diverge_round": null, "baseline_q": "R8:A1", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "systematic", "seed": 10169, "diverge_round": null, "baseline_q": "R5:A2", "shield_q": "R5:A2", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10170, "diverge_round": 4, "baseline_q": "R3:A3;R4:A4;R5:A2;R8:A1;R9:A5", "shield_q": "R6:A4;R8:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "systematic", "seed": 10171, "diverge_round": 9, "baseline_q": "R4:A4;R8:A5;R9:A3;R10:A1;R11:A2", "shield_q": "R4:A4;R9:A3", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10172, "diverge_round": 4, "baseline_q": "R2:A2;R3:A3;R7:A1;R8:A5", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10173, "diverge_round": 4, "baseline_q": "R3:A1;R4:A5", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10174, "diverge_round": 10, "baseline_q": "R9:A2;R12:A1", "shield_q": "R11:A1", "sabotage_rounds": [8, 12]}
+{"strategy": "systematic", "seed": 10175, "diverge_round": 5, "baseline_q": "R3:A1;R4:A4", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "systematic", "seed": 10176, "diverge_round": 8, "baseline_q": "R7:A3;R8:A5;R9:A4", "shield_q": "R7:A5", "sabotage_rounds": [2, 7, 8]}
+{"strategy": "systematic", "seed": 10177, "diverge_round": 5, "baseline_q": "R4:A2;R5:A3;R8:A5", "shield_q": "R5:A3", "sabotage_rounds": [1, 4]}
+{"strategy": "systematic", "seed": 10178, "diverge_round": 7, "baseline_q": "R6:A2;R7:A3;R8:A5", "shield_q": "R7:A5", "sabotage_rounds": [6, 8]}
+{"strategy": "systematic", "seed": 10179, "diverge_round": 4, "baseline_q": "R3:A1;R4:A5", "shield_q": "R3:A5", "sabotage_rounds": [1, 3, 4]}
+{"strategy": "systematic", "seed": 10180, "diverge_round": 12, "baseline_q": "R7:A3;R11:A1;R12:A5", "shield_q": "R7:A3", "sabotage_rounds": [2, 7]}
+{"strategy": "systematic", "seed": 10181, "diverge_round": 6, "baseline_q": "R5:A1", "shield_q": "R6:A1", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10182, "diverge_round": 8, "baseline_q": "R6:A1;R7:A2", "shield_q": "R6:A1", "sabotage_rounds": [3, 6]}
+{"strategy": "systematic", "seed": 10183, "diverge_round": 4, "baseline_q": "R3:A2;R6:A5;R12:A1", "shield_q": "R4:A5", "sabotage_rounds": [3, 6]}
+{"strategy": "systematic", "seed": 10184, "diverge_round": 9, "baseline_q": "R2:A5;R8:A2;R9:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10185, "diverge_round": null, "baseline_q": "R10:A1;R12:A2", "shield_q": "R10:A1", "sabotage_rounds": [6, 10]}
+{"strategy": "systematic", "seed": 10186, "diverge_round": 5, "baseline_q": "R4:A1;R5:A5;R7:A3;R8:A4", "shield_q": "R4:A5", "sabotage_rounds": [3, 4]}
+{"strategy": "systematic", "seed": 10187, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [3, 5]}
+{"strategy": "systematic", "seed": 10188, "diverge_round": 11, "baseline_q": "R8:A5;R9:A1;R10:A2", "shield_q": "R8:A5;R9:A1", "sabotage_rounds": [5, 9]}
+{"strategy": "systematic", "seed": 10189, "diverge_round": 7, "baseline_q": "R5:A1;R6:A2;R12:A4", "shield_q": "R5:A1", "sabotage_rounds": [1, 5]}
+{"strategy": "systematic", "seed": 10190, "diverge_round": 4, "baseline_q": "R2:A3;R3:A5;R10:A2", "shield_q": "R2:A3", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10191, "diverge_round": 7, "baseline_q": "R4:A3;R6:A1", "shield_q": "R4:A3", "sabotage_rounds": [3, 4]}
+{"strategy": "systematic", "seed": 10192, "diverge_round": 6, "baseline_q": "R2:A1;R5:A2;R9:A5;R10:A3;R11:A4", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10193, "diverge_round": 6, "baseline_q": "R5:A1;R6:A4;R10:A2;R11:A5", "shield_q": "R5:A4", "sabotage_rounds": [1, 5, 6]}
+{"strategy": "systematic", "seed": 10194, "diverge_round": 8, "baseline_q": "R7:A2;R8:A5;R9:A3", "shield_q": "R8:A3;R11:A1", "sabotage_rounds": [3, 8]}
+{"strategy": "systematic", "seed": 10195, "diverge_round": 10, "baseline_q": "R4:A4;R9:A3;R12:A1", "shield_q": "R4:A4", "sabotage_rounds": [2, 4]}
+{"strategy": "systematic", "seed": 10196, "diverge_round": 12, "baseline_q": "R8:A4;R11:A5", "shield_q": "R8:A4", "sabotage_rounds": [1, 8]}
+{"strategy": "systematic", "seed": 10197, "diverge_round": null, "baseline_q": "R2:A5", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "systematic", "seed": 10198, "diverge_round": 7, "baseline_q": "R5:A2;R6:A3", "shield_q": "R5:A2", "sabotage_rounds": [2, 5]}
+{"strategy": "systematic", "seed": 10199, "diverge_round": 5, "baseline_q": "R3:A2;R4:A4;R8:A1;R9:A5;R10:A3", "shield_q": "R3:A2;R8:A4", "sabotage_rounds": [2, 3]}
+{"strategy": "intermittent", "seed": 10000, "diverge_round": 5, "baseline_q": "R4:A1;R7:A4;R8:A5", "shield_q": "", "sabotage_rounds": [2, 4]}
+{"strategy": "intermittent", "seed": 10001, "diverge_round": 7, "baseline_q": "R6:A5;R8:A3;R11:A4", "shield_q": "R7:A5", "sabotage_rounds": [6]}
+{"strategy": "intermittent", "seed": 10002, "diverge_round": 7, "baseline_q": "R5:A2;R6:A3;R10:A4;R11:A1;R12:A5", "shield_q": "R5:A2", "sabotage_rounds": [2, 5]}
+{"strategy": "intermittent", "seed": 10003, "diverge_round": 5, "baseline_q": "R4:A1;R8:A4", "shield_q": "R7:A4", "sabotage_rounds": [4]}
+{"strategy": "intermittent", "seed": 10004, "diverge_round": 10, "baseline_q": "R3:A5;R9:A1;R10:A2;R11:A3;R12:A4", "shield_q": "R3:A5;R12:A2", "sabotage_rounds": [9]}
+{"strategy": "intermittent", "seed": 10005, "diverge_round": 6, "baseline_q": "R5:A4;R11:A5", "shield_q": "R6:A4", "sabotage_rounds": [2]}
+{"strategy": "intermittent", "seed": 10006, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10007, "diverge_round": 10, "baseline_q": "R9:A4;R11:A5", "shield_q": "R11:A5", "sabotage_rounds": [9, 11]}
+{"strategy": "intermittent", "seed": 10008, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2;R7:A5", "shield_q": "R6:A2;R8:A1", "sabotage_rounds": [4]}
+{"strategy": "intermittent", "seed": 10009, "diverge_round": 5, "baseline_q": "R4:A5;R5:A3", "shield_q": "", "sabotage_rounds": [5]}
+{"strategy": "intermittent", "seed": 10010, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "intermittent", "seed": 10011, "diverge_round": 11, "baseline_q": "R10:A1;R11:A5;R12:A4", "shield_q": "", "sabotage_rounds": [4, 12]}
+{"strategy": "intermittent", "seed": 10012, "diverge_round": 8, "baseline_q": "R7:A5;R8:A3;R9:A2;R10:A4", "shield_q": "", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10013, "diverge_round": null, "baseline_q": "R3:A3", "shield_q": "R3:A3", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10014, "diverge_round": 6, "baseline_q": "R5:A2;R6:A3;R7:A4;R10:A1", "shield_q": "R5:A3;R10:A2", "sabotage_rounds": [4]}
+{"strategy": "intermittent", "seed": 10015, "diverge_round": 11, "baseline_q": "R3:A1;R10:A2;R11:A5;R12:A3", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10016, "diverge_round": 8, "baseline_q": "R7:A1;R8:A5;R9:A2", "shield_q": "R7:A5", "sabotage_rounds": [4, 7]}
+{"strategy": "intermittent", "seed": 10017, "diverge_round": null, "baseline_q": "R9:A4;R11:A2;R12:A3", "shield_q": "R9:A4;R11:A2", "sabotage_rounds": [4, 9]}
+{"strategy": "intermittent", "seed": 10018, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "intermittent", "seed": 10019, "diverge_round": null, "baseline_q": "R10:A5", "shield_q": "R10:A5", "sabotage_rounds": [1, 10]}
+{"strategy": "intermittent", "seed": 10020, "diverge_round": null, "baseline_q": "R4:A1", "shield_q": "R4:A1", "sabotage_rounds": [3, 4]}
+{"strategy": "intermittent", "seed": 10021, "diverge_round": null, "baseline_q": "R3:A2", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10022, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10023, "diverge_round": 5, "baseline_q": "R4:A3;R7:A1;R8:A4;R10:A2", "shield_q": "R8:A3", "sabotage_rounds": [3, 4]}
+{"strategy": "intermittent", "seed": 10024, "diverge_round": 11, "baseline_q": "R10:A1", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "intermittent", "seed": 10025, "diverge_round": null, "baseline_q": "R12:A1", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10026, "diverge_round": 6, "baseline_q": "R3:A2;R5:A4;R6:A3;R8:A1;R9:A5", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10027, "diverge_round": 11, "baseline_q": "R8:A1;R10:A5", "shield_q": "R8:A1", "sabotage_rounds": [4, 8]}
+{"strategy": "intermittent", "seed": 10028, "diverge_round": null, "baseline_q": "R12:A5", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "intermittent", "seed": 10029, "diverge_round": null, "baseline_q": "R12:A2", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10030, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5;R8:A1", "shield_q": "R4:A5", "sabotage_rounds": [1, 4, 5]}
+{"strategy": "intermittent", "seed": 10031, "diverge_round": 7, "baseline_q": "R6:A3;R9:A1;R12:A2", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10032, "diverge_round": 12, "baseline_q": "R11:A1;R12:A5", "shield_q": "", "sabotage_rounds": [9, 12]}
+{"strategy": "intermittent", "seed": 10033, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [5]}
+{"strategy": "intermittent", "seed": 10034, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2", "shield_q": "R4:A2", "sabotage_rounds": [3, 4]}
+{"strategy": "intermittent", "seed": 10035, "diverge_round": 8, "baseline_q": "R7:A3", "shield_q": "", "sabotage_rounds": [5]}
+{"strategy": "intermittent", "seed": 10036, "diverge_round": 8, "baseline_q": "R7:A4", "shield_q": "", "sabotage_rounds": [7]}
+{"strategy": "intermittent", "seed": 10037, "diverge_round": 9, "baseline_q": "R8:A3;R9:A4;R12:A5", "shield_q": "R9:A4", "sabotage_rounds": [6]}
+{"strategy": "intermittent", "seed": 10038, "diverge_round": 9, "baseline_q": "R7:A1;R8:A3;R9:A4;R10:A5", "shield_q": "R7:A1", "sabotage_rounds": [4, 7]}
+{"strategy": "intermittent", "seed": 10039, "diverge_round": null, "baseline_q": "R9:A3", "shield_q": "R9:A3", "sabotage_rounds": [5, 9]}
+{"strategy": "intermittent", "seed": 10040, "diverge_round": 3, "baseline_q": "R2:A1;R10:A5;R11:A3;R12:A2", "shield_q": "", "sabotage_rounds": [11, 12]}
+{"strategy": "intermittent", "seed": 10041, "diverge_round": 6, "baseline_q": "R4:A3;R5:A1;R12:A2", "shield_q": "R4:A3", "sabotage_rounds": [1, 4]}
+{"strategy": "intermittent", "seed": 10042, "diverge_round": 5, "baseline_q": "R4:A3;R5:A1;R11:A2;R12:A4", "shield_q": "R8:A3", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10043, "diverge_round": 11, "baseline_q": "R10:A1;R12:A2", "shield_q": "R12:A1", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10044, "diverge_round": 12, "baseline_q": "R11:A1;R12:A2", "shield_q": "", "sabotage_rounds": [3]}
+{"strategy": "intermittent", "seed": 10045, "diverge_round": 7, "baseline_q": "R6:A1;R7:A4", "shield_q": "R6:A4", "sabotage_rounds": [3, 6]}
+{"strategy": "intermittent", "seed": 10046, "diverge_round": 10, "baseline_q": "R9:A2;R10:A5", "shield_q": "R10:A2", "sabotage_rounds": [3, 9]}
+{"strategy": "intermittent", "seed": 10047, "diverge_round": 10, "baseline_q": "R9:A1;R10:A4;R12:A2", "shield_q": "R12:A4", "sabotage_rounds": [9]}
+{"strategy": "intermittent", "seed": 10048, "diverge_round": 9, "baseline_q": "R8:A4;R9:A1;R10:A2", "shield_q": "", "sabotage_rounds": [8, 9]}
+{"strategy": "intermittent", "seed": 10049, "diverge_round": 11, "baseline_q": "R10:A2;R11:A3;R12:A4", "shield_q": "R11:A4;R12:A2", "sabotage_rounds": [2, 11]}
+{"strategy": "intermittent", "seed": 10050, "diverge_round": 7, "baseline_q": "R5:A1;R6:A4;R12:A3", "shield_q": "R5:A1", "sabotage_rounds": [1, 5]}
+{"strategy": "intermittent", "seed": 10051, "diverge_round": 6, "baseline_q": "R5:A3;R6:A4;R8:A2;R9:A5", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10052, "diverge_round": 8, "baseline_q": "R7:A4", "shield_q": "", "sabotage_rounds": [4, 7]}
+{"strategy": "intermittent", "seed": 10053, "diverge_round": 7, "baseline_q": "R5:A2;R6:A4;R8:A3;R12:A1", "shield_q": "R5:A2;R8:A3", "sabotage_rounds": [2, 5]}
+{"strategy": "intermittent", "seed": 10054, "diverge_round": null, "baseline_q": "R7:A4;R12:A3", "shield_q": "R7:A4", "sabotage_rounds": [4, 7]}
+{"strategy": "intermittent", "seed": 10055, "diverge_round": 9, "baseline_q": "R8:A2;R9:A4;R10:A5;R11:A1", "shield_q": "R10:A5", "sabotage_rounds": [6, 9, 10]}
+{"strategy": "intermittent", "seed": 10056, "diverge_round": 12, "baseline_q": "R11:A2;R12:A3", "shield_q": "", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10057, "diverge_round": 7, "baseline_q": "R6:A1;R7:A2;R12:A3", "shield_q": "R6:A2", "sabotage_rounds": [3, 6]}
+{"strategy": "intermittent", "seed": 10058, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "intermittent", "seed": 10059, "diverge_round": 8, "baseline_q": "R7:A3;R9:A1;R11:A2", "shield_q": "R10:A1", "sabotage_rounds": [5, 9]}
+{"strategy": "intermittent", "seed": 10060, "diverge_round": 10, "baseline_q": "R9:A5;R11:A4", "shield_q": "R11:A5", "sabotage_rounds": [3, 9]}
+{"strategy": "intermittent", "seed": 10061, "diverge_round": 3, "baseline_q": "R2:A5;R4:A1;R7:A3", "shield_q": "R5:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "intermittent", "seed": 10062, "diverge_round": 10, "baseline_q": "R2:A1;R9:A2", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "intermittent", "seed": 10063, "diverge_round": 10, "baseline_q": "R9:A1;R10:A5;R11:A2;R12:A3", "shield_q": "R9:A5", "sabotage_rounds": [7, 9]}
+{"strategy": "intermittent", "seed": 10064, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [8]}
+{"strategy": "intermittent", "seed": 10065, "diverge_round": 12, "baseline_q": "R11:A3;R12:A2", "shield_q": "", "sabotage_rounds": [6]}
+{"strategy": "intermittent", "seed": 10066, "diverge_round": 7, "baseline_q": "R5:A4;R6:A2;R7:A3;R8:A5", "shield_q": "R5:A4", "sabotage_rounds": [1, 5]}
+{"strategy": "intermittent", "seed": 10067, "diverge_round": 11, "baseline_q": "R10:A1;R11:A2;R12:A4", "shield_q": "R10:A2", "sabotage_rounds": [4, 10, 11]}
+{"strategy": "intermittent", "seed": 10068, "diverge_round": 11, "baseline_q": "R10:A5", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "intermittent", "seed": 10069, "diverge_round": 11, "baseline_q": "R8:A2;R10:A1;R11:A4", "shield_q": "R8:A2", "sabotage_rounds": [8]}
+{"strategy": "intermittent", "seed": 10070, "diverge_round": 5, "baseline_q": "R4:A2;R5:A3;R12:A4", "shield_q": "R8:A3;R11:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "intermittent", "seed": 10071, "diverge_round": null, "baseline_q": "R3:A5;R11:A1;R12:A3", "shield_q": "R3:A5;R11:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10072, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4;R10:A2;R11:A5", "shield_q": "", "sabotage_rounds": [7, 8]}
+{"strategy": "intermittent", "seed": 10073, "diverge_round": 8, "baseline_q": "R7:A1;R8:A3;R9:A4", "shield_q": "R12:A1", "sabotage_rounds": [7]}
+{"strategy": "intermittent", "seed": 10074, "diverge_round": 10, "baseline_q": "R6:A4;R9:A2;R10:A3;R11:A1;R12:A5", "shield_q": "R6:A4", "sabotage_rounds": [11]}
+{"strategy": "intermittent", "seed": 10075, "diverge_round": 8, "baseline_q": "R7:A1;R8:A3;R9:A4;R10:A5", "shield_q": "", "sabotage_rounds": [5, 7, 8]}
+{"strategy": "intermittent", "seed": 10076, "diverge_round": 11, "baseline_q": "R7:A1;R10:A5", "shield_q": "R7:A1", "sabotage_rounds": [2, 7]}
+{"strategy": "intermittent", "seed": 10077, "diverge_round": null, "baseline_q": "R3:A2;R12:A4", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "intermittent", "seed": 10078, "diverge_round": 8, "baseline_q": "R4:A1;R7:A3;R8:A5;R9:A4", "shield_q": "R4:A1", "sabotage_rounds": [2, 4]}
+{"strategy": "intermittent", "seed": 10079, "diverge_round": 8, "baseline_q": "R7:A5", "shield_q": "", "sabotage_rounds": [2]}
+{"strategy": "intermittent", "seed": 10080, "diverge_round": 12, "baseline_q": "R11:A2;R12:A5", "shield_q": "R11:A5", "sabotage_rounds": [1, 11]}
+{"strategy": "intermittent", "seed": 10081, "diverge_round": 5, "baseline_q": "R4:A5;R5:A2;R6:A4;R7:A1;R8:A3", "shield_q": "", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10082, "diverge_round": 3, "baseline_q": "R2:A4;R6:A2;R8:A1;R11:A3;R12:A5", "shield_q": "R3:A4", "sabotage_rounds": [6, 8]}
+{"strategy": "intermittent", "seed": 10083, "diverge_round": 9, "baseline_q": "R6:A3;R8:A2", "shield_q": "R6:A3", "sabotage_rounds": [5, 6]}
+{"strategy": "intermittent", "seed": 10084, "diverge_round": 5, "baseline_q": "R4:A4;R11:A1;R12:A3", "shield_q": "R9:A4", "sabotage_rounds": [3]}
+{"strategy": "intermittent", "seed": 10085, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10086, "diverge_round": null, "baseline_q": "R12:A3", "shield_q": "", "sabotage_rounds": [4, 12]}
+{"strategy": "intermittent", "seed": 10087, "diverge_round": 4, "baseline_q": "R3:A1;R4:A2;R5:A3;R7:A4;R8:A5", "shield_q": "R9:A1", "sabotage_rounds": [2]}
+{"strategy": "intermittent", "seed": 10088, "diverge_round": 5, "baseline_q": "R4:A3", "shield_q": "R8:A2", "sabotage_rounds": [3]}
+{"strategy": "intermittent", "seed": 10089, "diverge_round": 12, "baseline_q": "R11:A4", "shield_q": "", "sabotage_rounds": [3, 11]}
+{"strategy": "intermittent", "seed": 10090, "diverge_round": 11, "baseline_q": "R10:A1", "shield_q": "", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10091, "diverge_round": null, "baseline_q": "R12:A1", "shield_q": "R12:A1", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10092, "diverge_round": 9, "baseline_q": "R8:A1;R9:A2", "shield_q": "R10:A1", "sabotage_rounds": [4, 8]}
+{"strategy": "intermittent", "seed": 10093, "diverge_round": 11, "baseline_q": "R5:A3;R10:A2;R11:A4;R12:A5", "shield_q": "R5:A3", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10094, "diverge_round": 8, "baseline_q": "R6:A1;R7:A4", "shield_q": "R6:A1", "sabotage_rounds": [7]}
+{"strategy": "intermittent", "seed": 10095, "diverge_round": 10, "baseline_q": "R9:A2;R12:A1", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "intermittent", "seed": 10096, "diverge_round": 4, "baseline_q": "R3:A4;R8:A1;R10:A3", "shield_q": "R4:A1", "sabotage_rounds": [1, 8]}
+{"strategy": "intermittent", "seed": 10097, "diverge_round": null, "baseline_q": "R12:A1", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10098, "diverge_round": 5, "baseline_q": "R3:A1;R4:A3;R6:A2;R7:A4", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10099, "diverge_round": 6, "baseline_q": "R5:A5;R7:A1;R8:A2;R12:A3", "shield_q": "R7:A1", "sabotage_rounds": [1, 7]}
+{"strategy": "intermittent", "seed": 10100, "diverge_round": 3, "baseline_q": "R2:A5;R7:A3;R11:A4", "shield_q": "R4:A3;R7:A5", "sabotage_rounds": [1, 7]}
+{"strategy": "intermittent", "seed": 10101, "diverge_round": 11, "baseline_q": "R9:A1;R10:A4;R12:A5", "shield_q": "R9:A1", "sabotage_rounds": [7, 9]}
+{"strategy": "intermittent", "seed": 10102, "diverge_round": null, "baseline_q": "R3:A2", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10103, "diverge_round": 12, "baseline_q": "R11:A1;R12:A3", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "intermittent", "seed": 10104, "diverge_round": 9, "baseline_q": "R8:A2;R9:A4;R10:A1;R11:A5", "shield_q": "", "sabotage_rounds": [8]}
+{"strategy": "intermittent", "seed": 10105, "diverge_round": null, "baseline_q": "R6:A4", "shield_q": "R6:A4", "sabotage_rounds": [3, 6]}
+{"strategy": "intermittent", "seed": 10106, "diverge_round": 11, "baseline_q": "R9:A2;R10:A4;R11:A5", "shield_q": "R9:A2", "sabotage_rounds": [7, 9]}
+{"strategy": "intermittent", "seed": 10107, "diverge_round": 7, "baseline_q": "R6:A4;R7:A5;R8:A1;R9:A2", "shield_q": "R7:A1", "sabotage_rounds": [1, 7]}
+{"strategy": "intermittent", "seed": 10108, "diverge_round": 7, "baseline_q": "R3:A4;R6:A1;R7:A2", "shield_q": "R3:A4", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10109, "diverge_round": 5, "baseline_q": "R4:A5;R5:A3;R6:A4;R12:A1", "shield_q": "R5:A3", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10110, "diverge_round": 10, "baseline_q": "R9:A5", "shield_q": "R12:A5", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10111, "diverge_round": 4, "baseline_q": "R3:A2;R9:A3;R10:A4", "shield_q": "R9:A3", "sabotage_rounds": [3, 9]}
+{"strategy": "intermittent", "seed": 10112, "diverge_round": null, "baseline_q": "R3:A2", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10113, "diverge_round": 7, "baseline_q": "R6:A5;R7:A2;R8:A4;R9:A1", "shield_q": "", "sabotage_rounds": [2, 7, 8]}
+{"strategy": "intermittent", "seed": 10114, "diverge_round": 4, "baseline_q": "R3:A5;R4:A1", "shield_q": "R4:A1", "sabotage_rounds": [1, 4]}
+{"strategy": "intermittent", "seed": 10115, "diverge_round": 11, "baseline_q": "R9:A1;R10:A3", "shield_q": "R9:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "intermittent", "seed": 10116, "diverge_round": 6, "baseline_q": "R5:A3", "shield_q": "R9:A3", "sabotage_rounds": [5]}
+{"strategy": "intermittent", "seed": 10117, "diverge_round": 4, "baseline_q": "R3:A1;R4:A3;R6:A2", "shield_q": "", "sabotage_rounds": [3]}
+{"strategy": "intermittent", "seed": 10118, "diverge_round": 7, "baseline_q": "R6:A1;R7:A2;R9:A3;R12:A4", "shield_q": "R7:A2", "sabotage_rounds": [5, 7]}
+{"strategy": "intermittent", "seed": 10119, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4", "shield_q": "R10:A4", "sabotage_rounds": [8]}
+{"strategy": "intermittent", "seed": 10120, "diverge_round": 8, "baseline_q": "R7:A4", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10121, "diverge_round": null, "baseline_q": "R2:A3", "shield_q": "R2:A3", "sabotage_rounds": [1, 2]}
+{"strategy": "intermittent", "seed": 10122, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [7]}
+{"strategy": "intermittent", "seed": 10123, "diverge_round": 4, "baseline_q": "R3:A4;R5:A3;R7:A2;R10:A1;R11:A5", "shield_q": "", "sabotage_rounds": [5, 7]}
+{"strategy": "intermittent", "seed": 10124, "diverge_round": 7, "baseline_q": "R5:A5;R6:A2", "shield_q": "R5:A5;R7:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "intermittent", "seed": 10125, "diverge_round": 4, "baseline_q": "R3:A3;R6:A5;R12:A1", "shield_q": "R6:A5", "sabotage_rounds": [2, 6]}
+{"strategy": "intermittent", "seed": 10126, "diverge_round": 11, "baseline_q": "R9:A3;R10:A2;R11:A4;R12:A5", "shield_q": "R9:A3", "sabotage_rounds": [4, 9]}
+{"strategy": "intermittent", "seed": 10127, "diverge_round": 7, "baseline_q": "R5:A1;R6:A3;R12:A5", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "intermittent", "seed": 10128, "diverge_round": 7, "baseline_q": "R4:A4;R6:A1", "shield_q": "R4:A4", "sabotage_rounds": [1, 4]}
+{"strategy": "intermittent", "seed": 10129, "diverge_round": 10, "baseline_q": "R9:A4;R10:A2;R11:A3", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "intermittent", "seed": 10130, "diverge_round": 5, "baseline_q": "R3:A5;R4:A3", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "intermittent", "seed": 10131, "diverge_round": 10, "baseline_q": "R9:A2;R11:A4", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "intermittent", "seed": 10132, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5", "shield_q": "", "sabotage_rounds": [5]}
+{"strategy": "intermittent", "seed": 10133, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10134, "diverge_round": null, "baseline_q": "R12:A5", "shield_q": "R12:A5", "sabotage_rounds": [11, 12]}
+{"strategy": "intermittent", "seed": 10135, "diverge_round": null, "baseline_q": "R9:A2", "shield_q": "R9:A2", "sabotage_rounds": [6, 9]}
+{"strategy": "intermittent", "seed": 10136, "diverge_round": 7, "baseline_q": "R6:A1;R7:A2;R12:A3", "shield_q": "R7:A2", "sabotage_rounds": [6, 7]}
+{"strategy": "intermittent", "seed": 10137, "diverge_round": 4, "baseline_q": "R2:A2;R3:A3;R5:A4;R10:A1;R11:A5", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "intermittent", "seed": 10138, "diverge_round": 5, "baseline_q": "R4:A1;R6:A2;R8:A5;R9:A3;R10:A4", "shield_q": "R10:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "intermittent", "seed": 10139, "diverge_round": 5, "baseline_q": "R4:A4;R5:A5;R6:A2;R7:A3", "shield_q": "R9:A2", "sabotage_rounds": [3]}
+{"strategy": "intermittent", "seed": 10140, "diverge_round": 5, "baseline_q": "R4:A4;R5:A5;R7:A2;R12:A1", "shield_q": "R4:A5", "sabotage_rounds": [2, 4]}
+{"strategy": "intermittent", "seed": 10141, "diverge_round": 8, "baseline_q": "R7:A5;R11:A3", "shield_q": "R8:A5", "sabotage_rounds": [5]}
+{"strategy": "intermittent", "seed": 10142, "diverge_round": 4, "baseline_q": "R3:A2;R6:A5;R10:A4;R11:A1;R12:A3", "shield_q": "R7:A4;R9:A5", "sabotage_rounds": [2, 6]}
+{"strategy": "intermittent", "seed": 10143, "diverge_round": null, "baseline_q": "R6:A4;R12:A1", "shield_q": "R6:A4", "sabotage_rounds": [4, 6]}
+{"strategy": "intermittent", "seed": 10144, "diverge_round": 11, "baseline_q": "R9:A5;R10:A3", "shield_q": "R9:A5", "sabotage_rounds": [9]}
+{"strategy": "intermittent", "seed": 10145, "diverge_round": 10, "baseline_q": "R7:A5;R9:A1;R10:A2;R11:A4", "shield_q": "R7:A5", "sabotage_rounds": [3, 7]}
+{"strategy": "intermittent", "seed": 10146, "diverge_round": 8, "baseline_q": "R5:A5;R7:A4;R8:A2;R9:A1;R10:A3", "shield_q": "R5:A5", "sabotage_rounds": [2, 5]}
+{"strategy": "intermittent", "seed": 10147, "diverge_round": 12, "baseline_q": "R11:A3", "shield_q": "R12:A1", "sabotage_rounds": [4]}
+{"strategy": "intermittent", "seed": 10148, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [6]}
+{"strategy": "intermittent", "seed": 10149, "diverge_round": 7, "baseline_q": "R6:A2;R8:A3;R9:A5", "shield_q": "R8:A3;R12:A2", "sabotage_rounds": [6]}
+{"strategy": "intermittent", "seed": 10150, "diverge_round": 6, "baseline_q": "R5:A4;R7:A1;R8:A3;R9:A2;R10:A5", "shield_q": "", "sabotage_rounds": [6, 7]}
+{"strategy": "intermittent", "seed": 10151, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [6]}
+{"strategy": "intermittent", "seed": 10152, "diverge_round": null, "baseline_q": "R5:A4;R12:A2", "shield_q": "R5:A4", "sabotage_rounds": [12]}
+{"strategy": "intermittent", "seed": 10153, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [4]}
+{"strategy": "intermittent", "seed": 10154, "diverge_round": 6, "baseline_q": "R5:A5;R6:A2;R7:A4;R8:A3", "shield_q": "R6:A1", "sabotage_rounds": [3, 10, 12]}
+{"strategy": "intermittent", "seed": 10155, "diverge_round": 5, "baseline_q": "R4:A4;R9:A2;R10:A5;R11:A1;R12:A3", "shield_q": "R7:A2", "sabotage_rounds": [6, 9]}
+{"strategy": "intermittent", "seed": 10156, "diverge_round": 6, "baseline_q": "R3:A5;R5:A1;R6:A4;R10:A2;R11:A3", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10157, "diverge_round": 10, "baseline_q": "R9:A1;R10:A5;R12:A2", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "intermittent", "seed": 10158, "diverge_round": 9, "baseline_q": "R5:A2;R7:A1;R8:A3", "shield_q": "R5:A2;R7:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "intermittent", "seed": 10159, "diverge_round": 12, "baseline_q": "R11:A4;R12:A5", "shield_q": "", "sabotage_rounds": [3, 12]}
+{"strategy": "intermittent", "seed": 10160, "diverge_round": 12, "baseline_q": "R11:A2", "shield_q": "R12:A2", "sabotage_rounds": [11]}
+{"strategy": "intermittent", "seed": 10161, "diverge_round": 8, "baseline_q": "R5:A2;R7:A1;R9:A3;R10:A5", "shield_q": "R5:A2", "sabotage_rounds": [1, 5]}
+{"strategy": "intermittent", "seed": 10162, "diverge_round": 10, "baseline_q": "R9:A1;R10:A2;R11:A5;R12:A3", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "intermittent", "seed": 10163, "diverge_round": 7, "baseline_q": "R6:A1;R11:A3;R12:A4", "shield_q": "R9:A2", "sabotage_rounds": [11]}
+{"strategy": "intermittent", "seed": 10164, "diverge_round": 7, "baseline_q": "R2:A3;R6:A1;R7:A2;R9:A4;R10:A5", "shield_q": "R2:A3;R7:A2", "sabotage_rounds": [1]}
+{"strategy": "intermittent", "seed": 10165, "diverge_round": 12, "baseline_q": "R11:A3;R12:A5", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "intermittent", "seed": 10166, "diverge_round": 3, "baseline_q": "R2:A2;R6:A3;R7:A4;R10:A1;R11:A5", "shield_q": "R6:A3", "sabotage_rounds": [2, 6]}
+{"strategy": "intermittent", "seed": 10167, "diverge_round": null, "baseline_q": "R12:A5", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10168, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10169, "diverge_round": 8, "baseline_q": "R7:A2;R10:A5", "shield_q": "R8:A2", "sabotage_rounds": [7]}
+{"strategy": "intermittent", "seed": 10170, "diverge_round": 4, "baseline_q": "R3:A3;R4:A4;R5:A2;R8:A1;R9:A5", "shield_q": "R12:A4", "sabotage_rounds": [3]}
+{"strategy": "intermittent", "seed": 10171, "diverge_round": 9, "baseline_q": "R8:A4;R9:A5;R10:A3;R11:A2", "shield_q": "", "sabotage_rounds": [2, 8]}
+{"strategy": "intermittent", "seed": 10172, "diverge_round": 8, "baseline_q": "R7:A3;R11:A1", "shield_q": "", "sabotage_rounds": [11]}
+{"strategy": "intermittent", "seed": 10173, "diverge_round": 4, "baseline_q": "R3:A1;R4:A5", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "intermittent", "seed": 10174, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10175, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [5]}
+{"strategy": "intermittent", "seed": 10176, "diverge_round": 10, "baseline_q": "R9:A3", "shield_q": "R12:A5", "sabotage_rounds": [8]}
+{"strategy": "intermittent", "seed": 10177, "diverge_round": 8, "baseline_q": "R7:A2;R8:A3", "shield_q": "R10:A3", "sabotage_rounds": [4, 7]}
+{"strategy": "intermittent", "seed": 10178, "diverge_round": 7, "baseline_q": "R6:A2;R7:A3;R8:A5", "shield_q": "R10:A5", "sabotage_rounds": [6, 8]}
+{"strategy": "intermittent", "seed": 10179, "diverge_round": 8, "baseline_q": "R7:A4;R8:A5;R9:A1", "shield_q": "R7:A5", "sabotage_rounds": [3, 7, 8]}
+{"strategy": "intermittent", "seed": 10180, "diverge_round": 10, "baseline_q": "R8:A3;R9:A5", "shield_q": "R8:A3", "sabotage_rounds": [2, 8]}
+{"strategy": "intermittent", "seed": 10181, "diverge_round": 6, "baseline_q": "R5:A1", "shield_q": "R11:A1", "sabotage_rounds": [3, 5]}
+{"strategy": "intermittent", "seed": 10182, "diverge_round": 11, "baseline_q": "R9:A1;R10:A3", "shield_q": "R9:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "intermittent", "seed": 10183, "diverge_round": null, "baseline_q": "R12:A2", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10184, "diverge_round": 6, "baseline_q": "R5:A5;R8:A2", "shield_q": "R7:A5", "sabotage_rounds": [2, 5]}
+{"strategy": "intermittent", "seed": 10185, "diverge_round": null, "baseline_q": "R12:A2", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "intermittent", "seed": 10186, "diverge_round": 5, "baseline_q": "R4:A1;R7:A4;R12:A5", "shield_q": "", "sabotage_rounds": [4, 12]}
+{"strategy": "intermittent", "seed": 10187, "diverge_round": null, "baseline_q": "R6:A3", "shield_q": "R6:A3", "sabotage_rounds": [3, 6]}
+{"strategy": "intermittent", "seed": 10188, "diverge_round": 11, "baseline_q": "R8:A5;R10:A1;R11:A3", "shield_q": "R8:A5", "sabotage_rounds": [10]}
+{"strategy": "intermittent", "seed": 10189, "diverge_round": 8, "baseline_q": "R7:A2;R8:A4", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10190, "diverge_round": 4, "baseline_q": "R2:A3;R3:A5;R10:A2", "shield_q": "R2:A3", "sabotage_rounds": [1, 2]}
+{"strategy": "intermittent", "seed": 10191, "diverge_round": 12, "baseline_q": "R9:A3;R11:A1;R12:A2", "shield_q": "R9:A3", "sabotage_rounds": [4, 9]}
+{"strategy": "intermittent", "seed": 10192, "diverge_round": 4, "baseline_q": "R3:A1;R5:A2;R6:A4", "shield_q": "", "sabotage_rounds": [2, 3]}
+{"strategy": "intermittent", "seed": 10193, "diverge_round": 10, "baseline_q": "R6:A4;R9:A2", "shield_q": "R6:A4", "sabotage_rounds": [1, 6]}
+{"strategy": "intermittent", "seed": 10194, "diverge_round": 8, "baseline_q": "R7:A2;R8:A5;R9:A3", "shield_q": "R8:A3;R11:A1", "sabotage_rounds": [3, 8]}
+{"strategy": "intermittent", "seed": 10195, "diverge_round": 10, "baseline_q": "R9:A5;R10:A1;R11:A4", "shield_q": "R10:A4", "sabotage_rounds": [7, 10]}
+{"strategy": "intermittent", "seed": 10196, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "intermittent", "seed": 10197, "diverge_round": null, "baseline_q": "R3:A5", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "intermittent", "seed": 10198, "diverge_round": null, "baseline_q": "R11:A2", "shield_q": "R11:A2", "sabotage_rounds": [5, 11]}
+{"strategy": "intermittent", "seed": 10199, "diverge_round": 7, "baseline_q": "R4:A4;R6:A1;R7:A2", "shield_q": "R4:A4", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10000, "diverge_round": 9, "baseline_q": "R8:A1", "shield_q": "", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10001, "diverge_round": 8, "baseline_q": "R7:A5;R8:A3;R11:A4", "shield_q": "R10:A5", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10002, "diverge_round": 7, "baseline_q": "R6:A1;R8:A2;R9:A3;R10:A4;R11:A5", "shield_q": "R10:A2", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10003, "diverge_round": 8, "baseline_q": "R7:A1;R8:A4", "shield_q": "R10:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10004, "diverge_round": 4, "baseline_q": "R3:A5;R7:A2;R8:A3;R9:A1;R10:A4", "shield_q": "R9:A2;R11:A4", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10005, "diverge_round": 8, "baseline_q": "R7:A4;R11:A5", "shield_q": "R12:A4", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10006, "diverge_round": 10, "baseline_q": "R9:A2", "shield_q": "", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10007, "diverge_round": 9, "baseline_q": "R8:A4;R9:A5", "shield_q": "R11:A5", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10008, "diverge_round": 8, "baseline_q": "R7:A1;R8:A2;R9:A4;R11:A3;R12:A5", "shield_q": "R10:A1", "sabotage_rounds": [8]}
+{"strategy": "delayed", "seed": 10009, "diverge_round": 5, "baseline_q": "R4:A5;R7:A2;R8:A1;R9:A3;R10:A4", "shield_q": "R7:A5;R10:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10010, "diverge_round": null, "baseline_q": "R10:A5", "shield_q": "R10:A5", "sabotage_rounds": [9, 10]}
+{"strategy": "delayed", "seed": 10011, "diverge_round": 11, "baseline_q": "R10:A5;R11:A1;R12:A3", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10012, "diverge_round": null, "baseline_q": "R12:A1", "shield_q": "", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10013, "diverge_round": 10, "baseline_q": "R9:A4;R10:A5;R11:A3;R12:A2", "shield_q": "R10:A3", "sabotage_rounds": [7, 10, 11]}
+{"strategy": "delayed", "seed": 10014, "diverge_round": 8, "baseline_q": "R5:A3;R7:A1;R8:A2;R10:A5", "shield_q": "R5:A3;R10:A2", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10015, "diverge_round": 8, "baseline_q": "R7:A1;R10:A2;R11:A4", "shield_q": "R8:A1", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10016, "diverge_round": 8, "baseline_q": "R7:A1;R11:A5", "shield_q": "R11:A5", "sabotage_rounds": [7, 11]}
+{"strategy": "delayed", "seed": 10017, "diverge_round": 10, "baseline_q": "R9:A4;R11:A2;R12:A3", "shield_q": "R11:A4", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10018, "diverge_round": 8, "baseline_q": "R7:A4;R9:A5;R10:A3", "shield_q": "", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10019, "diverge_round": null, "baseline_q": "R12:A5", "shield_q": "R12:A5", "sabotage_rounds": [10, 12]}
+{"strategy": "delayed", "seed": 10020, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10021, "diverge_round": null, "baseline_q": "R9:A2", "shield_q": "R9:A2", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10022, "diverge_round": null, "baseline_q": "R12:A3", "shield_q": "R12:A3", "sabotage_rounds": [9, 12]}
+{"strategy": "delayed", "seed": 10023, "diverge_round": 8, "baseline_q": "R7:A2;R8:A3;R9:A5", "shield_q": "R8:A3", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10024, "diverge_round": 8, "baseline_q": "R7:A1", "shield_q": "R10:A1", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10025, "diverge_round": null, "baseline_q": "R12:A1", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10026, "diverge_round": 6, "baseline_q": "R5:A2;R12:A1", "shield_q": "R9:A2", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10027, "diverge_round": null, "baseline_q": "R11:A1", "shield_q": "R11:A1", "sabotage_rounds": [8, 11]}
+{"strategy": "delayed", "seed": 10028, "diverge_round": 8, "baseline_q": "R7:A5;R10:A1", "shield_q": "R8:A1", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10029, "diverge_round": 9, "baseline_q": "R8:A3;R10:A1;R11:A4", "shield_q": "R9:A1", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10030, "diverge_round": null, "baseline_q": "R11:A5", "shield_q": "R11:A5", "sabotage_rounds": [8, 11]}
+{"strategy": "delayed", "seed": 10031, "diverge_round": 7, "baseline_q": "R6:A3;R8:A1;R9:A5;R10:A2;R11:A4", "shield_q": "", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10032, "diverge_round": 9, "baseline_q": "R8:A5;R10:A2;R11:A1;R12:A4", "shield_q": "R9:A2", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10033, "diverge_round": null, "baseline_q": "R11:A3", "shield_q": "R11:A3", "sabotage_rounds": [9, 11]}
+{"strategy": "delayed", "seed": 10034, "diverge_round": 12, "baseline_q": "R11:A1;R12:A2", "shield_q": "R11:A2", "sabotage_rounds": [10, 11]}
+{"strategy": "delayed", "seed": 10035, "diverge_round": null, "baseline_q": "R12:A2", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10036, "diverge_round": 8, "baseline_q": "R7:A4;R8:A1", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10037, "diverge_round": 8, "baseline_q": "R7:A3;R8:A4;R12:A5", "shield_q": "R9:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10038, "diverge_round": 8, "baseline_q": "R7:A3;R8:A1;R9:A5;R10:A4", "shield_q": "R11:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10039, "diverge_round": 12, "baseline_q": "R11:A2", "shield_q": "R12:A3", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10040, "diverge_round": 3, "baseline_q": "R2:A1;R9:A2;R10:A4;R11:A3;R12:A5", "shield_q": "", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10041, "diverge_round": null, "baseline_q": "R10:A3;R12:A5", "shield_q": "R10:A3", "sabotage_rounds": [8, 10]}
+{"strategy": "delayed", "seed": 10042, "diverge_round": 5, "baseline_q": "R4:A3;R5:A1;R11:A2;R12:A4", "shield_q": "R9:A3", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10043, "diverge_round": 10, "baseline_q": "R8:A5;R9:A3;R10:A1;R12:A2", "shield_q": "R8:A5", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10044, "diverge_round": 11, "baseline_q": "R10:A3;R11:A4;R12:A1", "shield_q": "R12:A3", "sabotage_rounds": [9, 10]}
+{"strategy": "delayed", "seed": 10045, "diverge_round": 11, "baseline_q": "R9:A4;R10:A5", "shield_q": "R9:A4", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10046, "diverge_round": 10, "baseline_q": "R9:A2;R10:A5", "shield_q": "R10:A2", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10047, "diverge_round": 10, "baseline_q": "R9:A1;R10:A4;R12:A2", "shield_q": "R12:A4", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10048, "diverge_round": 9, "baseline_q": "R8:A4;R9:A1;R10:A2", "shield_q": "R10:A2", "sabotage_rounds": [8, 9, 10]}
+{"strategy": "delayed", "seed": 10049, "diverge_round": 11, "baseline_q": "R10:A2;R11:A3", "shield_q": "R11:A2", "sabotage_rounds": [11]}
+{"strategy": "delayed", "seed": 10050, "diverge_round": null, "baseline_q": "R12:A3", "shield_q": "", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10051, "diverge_round": 6, "baseline_q": "R5:A3;R6:A4;R7:A5;R8:A1;R9:A2", "shield_q": "R8:A3;R11:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10052, "diverge_round": null, "baseline_q": "R10:A4", "shield_q": "R10:A4", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10053, "diverge_round": 8, "baseline_q": "R7:A3;R12:A2", "shield_q": "R8:A3", "sabotage_rounds": [7, 12]}
+{"strategy": "delayed", "seed": 10054, "diverge_round": 9, "baseline_q": "R8:A3;R9:A4", "shield_q": "R8:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10055, "diverge_round": 9, "baseline_q": "R8:A2;R9:A4;R10:A5;R11:A1", "shield_q": "R10:A5", "sabotage_rounds": [7, 9, 10]}
+{"strategy": "delayed", "seed": 10056, "diverge_round": 8, "baseline_q": "R7:A2;R10:A4;R11:A5;R12:A1", "shield_q": "", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10057, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10058, "diverge_round": 11, "baseline_q": "R8:A1;R10:A2", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10059, "diverge_round": 12, "baseline_q": "R10:A1;R11:A2;R12:A5", "shield_q": "R10:A1", "sabotage_rounds": [8, 10]}
+{"strategy": "delayed", "seed": 10060, "diverge_round": 10, "baseline_q": "R9:A5;R11:A4", "shield_q": "R11:A5", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10061, "diverge_round": 8, "baseline_q": "R7:A2;R11:A5", "shield_q": "R9:A5", "sabotage_rounds": [7, 11]}
+{"strategy": "delayed", "seed": 10062, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "delayed", "seed": 10063, "diverge_round": 9, "baseline_q": "R8:A3;R9:A5;R10:A2;R11:A4", "shield_q": "R8:A5", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "delayed", "seed": 10064, "diverge_round": 10, "baseline_q": "R9:A1;R10:A4;R11:A3", "shield_q": "R9:A4", "sabotage_rounds": [8, 9, 10]}
+{"strategy": "delayed", "seed": 10065, "diverge_round": 12, "baseline_q": "R11:A3;R12:A2", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10066, "diverge_round": 9, "baseline_q": "R7:A3;R8:A2;R10:A1;R11:A4", "shield_q": "R7:A3;R10:A4", "sabotage_rounds": [8, 10, 11]}
+{"strategy": "delayed", "seed": 10067, "diverge_round": 11, "baseline_q": "R10:A1;R11:A2", "shield_q": "R12:A2", "sabotage_rounds": [10, 11]}
+{"strategy": "delayed", "seed": 10068, "diverge_round": 10, "baseline_q": "R9:A5", "shield_q": "R10:A5", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10069, "diverge_round": 11, "baseline_q": "R7:A2;R10:A1;R11:A4", "shield_q": "R7:A2", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10070, "diverge_round": 8, "baseline_q": "R7:A5;R8:A1;R9:A3;R10:A2", "shield_q": "R8:A3", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "delayed", "seed": 10071, "diverge_round": 11, "baseline_q": "R9:A5;R10:A1", "shield_q": "R9:A5;R11:A1", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10072, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4;R10:A5;R11:A2", "shield_q": "R12:A4", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "delayed", "seed": 10073, "diverge_round": 8, "baseline_q": "R7:A1;R8:A3;R9:A4", "shield_q": "R11:A1", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10074, "diverge_round": 10, "baseline_q": "R6:A4;R9:A2;R10:A3;R11:A1;R12:A5", "shield_q": "R6:A4", "sabotage_rounds": [10, 11]}
+{"strategy": "delayed", "seed": 10075, "diverge_round": 9, "baseline_q": "R7:A1;R8:A3;R9:A4;R10:A5", "shield_q": "R7:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10076, "diverge_round": 11, "baseline_q": "R8:A1;R10:A3;R11:A5", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10077, "diverge_round": 8, "baseline_q": "R7:A2;R9:A3;R12:A4", "shield_q": "R12:A2", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10078, "diverge_round": 8, "baseline_q": "R7:A3", "shield_q": "", "sabotage_rounds": [11]}
+{"strategy": "delayed", "seed": 10079, "diverge_round": 9, "baseline_q": "R8:A5;R9:A2", "shield_q": "R9:A2", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10080, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [11]}
+{"strategy": "delayed", "seed": 10081, "diverge_round": 8, "baseline_q": "R7:A3;R8:A4;R9:A5;R10:A1;R11:A2", "shield_q": "R12:A3", "sabotage_rounds": [8, 10, 11]}
+{"strategy": "delayed", "seed": 10082, "diverge_round": 3, "baseline_q": "R2:A4;R6:A2;R8:A1;R11:A3;R12:A5", "shield_q": "R3:A4;R6:A2", "sabotage_rounds": [8]}
+{"strategy": "delayed", "seed": 10083, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "delayed", "seed": 10084, "diverge_round": 10, "baseline_q": "R9:A4;R11:A1;R12:A2", "shield_q": "R10:A4", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10085, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10086, "diverge_round": null, "baseline_q": "R12:A3", "shield_q": "", "sabotage_rounds": [10, 12]}
+{"strategy": "delayed", "seed": 10087, "diverge_round": 5, "baseline_q": "R3:A1;R4:A2;R5:A3;R7:A4;R8:A5", "shield_q": "R3:A1;R7:A2;R8:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10088, "diverge_round": 6, "baseline_q": "R5:A3;R6:A5;R10:A2;R11:A1;R12:A4", "shield_q": "R9:A2", "sabotage_rounds": [8, 10]}
+{"strategy": "delayed", "seed": 10089, "diverge_round": 12, "baseline_q": "R11:A4", "shield_q": "", "sabotage_rounds": [9, 11]}
+{"strategy": "delayed", "seed": 10090, "diverge_round": 11, "baseline_q": "R10:A1", "shield_q": "", "sabotage_rounds": [11]}
+{"strategy": "delayed", "seed": 10091, "diverge_round": 9, "baseline_q": "R8:A1;R10:A5;R11:A3;R12:A4", "shield_q": "R10:A5;R12:A1", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10092, "diverge_round": null, "baseline_q": "R10:A1", "shield_q": "R10:A1", "sabotage_rounds": [8, 10]}
+{"strategy": "delayed", "seed": 10093, "diverge_round": 11, "baseline_q": "R7:A3;R10:A2;R11:A5;R12:A4", "shield_q": "R7:A3", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10094, "diverge_round": 8, "baseline_q": "R6:A1;R7:A4", "shield_q": "R6:A1;R9:A4", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10095, "diverge_round": 10, "baseline_q": "R9:A2;R12:A1", "shield_q": "R12:A2", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10096, "diverge_round": 6, "baseline_q": "R5:A4;R8:A1;R9:A3", "shield_q": "R11:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10097, "diverge_round": null, "baseline_q": "R12:A1", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10098, "diverge_round": 10, "baseline_q": "R9:A3;R10:A1", "shield_q": "", "sabotage_rounds": [9, 10]}
+{"strategy": "delayed", "seed": 10099, "diverge_round": 8, "baseline_q": "R7:A5;R8:A1", "shield_q": "R10:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10100, "diverge_round": 8, "baseline_q": "R7:A2;R10:A3;R11:A5;R12:A1", "shield_q": "R9:A3;R11:A5", "sabotage_rounds": [9, 10]}
+{"strategy": "delayed", "seed": 10101, "diverge_round": 10, "baseline_q": "R8:A1;R9:A4;R12:A5", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10102, "diverge_round": 11, "baseline_q": "R10:A1;R11:A2", "shield_q": "R11:A2", "sabotage_rounds": [10]}
+{"strategy": "delayed", "seed": 10103, "diverge_round": 10, "baseline_q": "R9:A1;R10:A5;R11:A2", "shield_q": "R9:A5", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10104, "diverge_round": 9, "baseline_q": "R8:A2;R9:A4;R10:A1;R11:A5", "shield_q": "R10:A2", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10105, "diverge_round": null, "baseline_q": "R10:A4", "shield_q": "R10:A4", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10106, "diverge_round": 11, "baseline_q": "R9:A2;R10:A4;R11:A5", "shield_q": "R9:A2", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10107, "diverge_round": 7, "baseline_q": "R6:A4;R7:A2;R9:A1;R11:A3;R12:A5", "shield_q": "R9:A1;R11:A4", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10108, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10109, "diverge_round": 8, "baseline_q": "R7:A2;R8:A3;R9:A4;R10:A5", "shield_q": "R7:A3", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10110, "diverge_round": null, "baseline_q": "R12:A5", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10111, "diverge_round": null, "baseline_q": "R9:A3;R12:A1", "shield_q": "R9:A3", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10112, "diverge_round": 8, "baseline_q": "R7:A4;R9:A2", "shield_q": "R11:A2", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10113, "diverge_round": 7, "baseline_q": "R6:A5;R10:A2;R11:A4;R12:A3", "shield_q": "", "sabotage_rounds": [7, 10, 11]}
+{"strategy": "delayed", "seed": 10114, "diverge_round": 8, "baseline_q": "R7:A5;R10:A1", "shield_q": "R12:A1", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10115, "diverge_round": 11, "baseline_q": "R9:A1;R10:A3", "shield_q": "R9:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10116, "diverge_round": 8, "baseline_q": "R7:A3", "shield_q": "R9:A3", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10117, "diverge_round": 7, "baseline_q": "R6:A1;R10:A2;R11:A4;R12:A3", "shield_q": "R11:A3", "sabotage_rounds": [11, 12]}
+{"strategy": "delayed", "seed": 10118, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4;R10:A5;R11:A2;R12:A3", "shield_q": "R11:A2", "sabotage_rounds": [7, 11]}
+{"strategy": "delayed", "seed": 10119, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4", "shield_q": "R10:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10120, "diverge_round": 8, "baseline_q": "R7:A4;R11:A3;R12:A5", "shield_q": "R8:A4;R9:A5", "sabotage_rounds": [9, 11]}
+{"strategy": "delayed", "seed": 10121, "diverge_round": null, "baseline_q": "R8:A3", "shield_q": "R8:A3", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10122, "diverge_round": null, "baseline_q": "R9:A2", "shield_q": "R9:A2", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10123, "diverge_round": 4, "baseline_q": "R3:A4;R8:A3;R10:A2;R11:A5", "shield_q": "", "sabotage_rounds": [8, 10]}
+{"strategy": "delayed", "seed": 10124, "diverge_round": 7, "baseline_q": "R6:A5;R7:A1;R10:A3", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10125, "diverge_round": 12, "baseline_q": "R11:A1;R12:A3", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10126, "diverge_round": null, "baseline_q": "R11:A3", "shield_q": "R11:A3", "sabotage_rounds": [9, 11]}
+{"strategy": "delayed", "seed": 10127, "diverge_round": 8, "baseline_q": "R7:A1;R8:A3;R12:A5", "shield_q": "R8:A1;R9:A3", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10128, "diverge_round": null, "baseline_q": "R11:A4", "shield_q": "R11:A4", "sabotage_rounds": [9, 11]}
+{"strategy": "delayed", "seed": 10129, "diverge_round": 10, "baseline_q": "R9:A4;R10:A2;R11:A3;R12:A1", "shield_q": "", "sabotage_rounds": [11, 12]}
+{"strategy": "delayed", "seed": 10130, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10131, "diverge_round": 10, "baseline_q": "R9:A2;R11:A4", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10132, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5", "shield_q": "R8:A5", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10133, "diverge_round": null, "baseline_q": "R10:A4", "shield_q": "R10:A4", "sabotage_rounds": [9, 10]}
+{"strategy": "delayed", "seed": 10134, "diverge_round": 12, "baseline_q": "R11:A1;R12:A5", "shield_q": "R11:A5", "sabotage_rounds": [9, 11]}
+{"strategy": "delayed", "seed": 10135, "diverge_round": 11, "baseline_q": "R9:A2;R10:A5;R12:A1", "shield_q": "R9:A2", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10136, "diverge_round": 8, "baseline_q": "R7:A3;R8:A2;R10:A4", "shield_q": "R11:A2", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10137, "diverge_round": 6, "baseline_q": "R5:A5;R8:A1;R9:A2;R11:A3;R12:A4", "shield_q": "R10:A1;R12:A5", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10138, "diverge_round": 5, "baseline_q": "R4:A1;R6:A2;R8:A5;R9:A3;R10:A4", "shield_q": "", "sabotage_rounds": [8, 9, 10]}
+{"strategy": "delayed", "seed": 10139, "diverge_round": 5, "baseline_q": "R4:A4;R5:A5;R6:A2;R7:A3", "shield_q": "R4:A5;R6:A2", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10140, "diverge_round": 8, "baseline_q": "R7:A2;R8:A1;R9:A5", "shield_q": "R9:A5", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "delayed", "seed": 10141, "diverge_round": 12, "baseline_q": "R8:A5;R11:A3", "shield_q": "R8:A5;R12:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10142, "diverge_round": 10, "baseline_q": "R7:A4;R9:A1;R10:A5;R11:A3", "shield_q": "R7:A4;R9:A5", "sabotage_rounds": [8, 9, 10]}
+{"strategy": "delayed", "seed": 10143, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [8]}
+{"strategy": "delayed", "seed": 10144, "diverge_round": 8, "baseline_q": "R7:A5;R10:A3", "shield_q": "R9:A5", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10145, "diverge_round": null, "baseline_q": "R10:A5", "shield_q": "R10:A5", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10146, "diverge_round": 11, "baseline_q": "R10:A1;R11:A3", "shield_q": "", "sabotage_rounds": [8]}
+{"strategy": "delayed", "seed": 10147, "diverge_round": null, "baseline_q": "R12:A1", "shield_q": "R12:A1", "sabotage_rounds": [9, 12]}
+{"strategy": "delayed", "seed": 10148, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10149, "diverge_round": 10, "baseline_q": "R8:A3;R9:A2;R11:A5", "shield_q": "R8:A3;R11:A2", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10150, "diverge_round": 6, "baseline_q": "R5:A4;R7:A3;R8:A1;R9:A5", "shield_q": "", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10151, "diverge_round": null, "baseline_q": "R12:A4", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10152, "diverge_round": 8, "baseline_q": "R5:A4;R7:A2;R11:A5", "shield_q": "R5:A4;R9:A2", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10153, "diverge_round": 12, "baseline_q": "R11:A1;R12:A3", "shield_q": "R11:A3", "sabotage_rounds": [7, 11]}
+{"strategy": "delayed", "seed": 10154, "diverge_round": 6, "baseline_q": "R5:A5;R6:A4;R7:A2;R8:A1;R9:A3", "shield_q": "", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10155, "diverge_round": 5, "baseline_q": "R4:A4;R9:A2;R10:A5;R11:A1;R12:A3", "shield_q": "R10:A2", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10156, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10157, "diverge_round": 10, "baseline_q": "R9:A1;R10:A5;R11:A2;R12:A4", "shield_q": "", "sabotage_rounds": [11]}
+{"strategy": "delayed", "seed": 10158, "diverge_round": 12, "baseline_q": "R11:A1;R12:A3", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10159, "diverge_round": 12, "baseline_q": "R11:A4;R12:A5", "shield_q": "", "sabotage_rounds": [10, 12]}
+{"strategy": "delayed", "seed": 10160, "diverge_round": 9, "baseline_q": "R8:A2", "shield_q": "R12:A2", "sabotage_rounds": [8]}
+{"strategy": "delayed", "seed": 10161, "diverge_round": 10, "baseline_q": "R9:A2", "shield_q": "R11:A2", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10162, "diverge_round": 8, "baseline_q": "R7:A3;R8:A5;R9:A1;R10:A2", "shield_q": "R12:A2", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10163, "diverge_round": 7, "baseline_q": "R6:A1;R11:A2;R12:A3", "shield_q": "R8:A2", "sabotage_rounds": [10, 11]}
+{"strategy": "delayed", "seed": 10164, "diverge_round": 8, "baseline_q": "R7:A3", "shield_q": "R8:A3", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10165, "diverge_round": 12, "baseline_q": "R11:A3;R12:A5", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10166, "diverge_round": 9, "baseline_q": "R8:A2;R9:A3;R10:A1", "shield_q": "R10:A3", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10167, "diverge_round": null, "baseline_q": "R12:A5", "shield_q": "", "sabotage_rounds": [12]}
+{"strategy": "delayed", "seed": 10168, "diverge_round": null, "baseline_q": "R8:A1", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10169, "diverge_round": 8, "baseline_q": "R7:A2;R10:A5", "shield_q": "R8:A2", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10170, "diverge_round": 5, "baseline_q": "R3:A3;R4:A4;R5:A2;R8:A1;R9:A5", "shield_q": "R3:A3", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10171, "diverge_round": 9, "baseline_q": "R8:A4;R9:A5;R10:A3;R11:A2", "shield_q": "R9:A4", "sabotage_rounds": [8]}
+{"strategy": "delayed", "seed": 10172, "diverge_round": 8, "baseline_q": "R7:A3;R8:A4;R9:A2", "shield_q": "R10:A2", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10173, "diverge_round": 9, "baseline_q": "R8:A2;R9:A1;R10:A5", "shield_q": "R10:A5", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10174, "diverge_round": 10, "baseline_q": "R9:A2;R12:A1", "shield_q": "R11:A1", "sabotage_rounds": [8, 12]}
+{"strategy": "delayed", "seed": 10175, "diverge_round": null, "baseline_q": "R8:A1", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10176, "diverge_round": 8, "baseline_q": "R7:A3;R8:A4;R9:A5", "shield_q": "R8:A5", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "delayed", "seed": 10177, "diverge_round": null, "baseline_q": "R10:A3", "shield_q": "R10:A3", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10178, "diverge_round": 8, "baseline_q": "R7:A2;R10:A3;R11:A5", "shield_q": "R10:A5", "sabotage_rounds": [7, 10, 11]}
+{"strategy": "delayed", "seed": 10179, "diverge_round": 8, "baseline_q": "R7:A4;R8:A5", "shield_q": "R10:A5", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10180, "diverge_round": 12, "baseline_q": "R8:A3;R11:A1;R12:A5", "shield_q": "R8:A3", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10181, "diverge_round": 12, "baseline_q": "R11:A1;R12:A4", "shield_q": "R12:A1", "sabotage_rounds": [11]}
+{"strategy": "delayed", "seed": 10182, "diverge_round": 10, "baseline_q": "R9:A1;R10:A3", "shield_q": "R11:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10183, "diverge_round": null, "baseline_q": "R8:A5;R12:A2", "shield_q": "R8:A5", "sabotage_rounds": [7, 8]}
+{"strategy": "delayed", "seed": 10184, "diverge_round": 8, "baseline_q": "R7:A5;R8:A2", "shield_q": "R12:A5", "sabotage_rounds": [7]}
+{"strategy": "delayed", "seed": 10185, "diverge_round": null, "baseline_q": "R11:A1;R12:A3", "shield_q": "R11:A1", "sabotage_rounds": [10, 11]}
+{"strategy": "delayed", "seed": 10186, "diverge_round": 8, "baseline_q": "R4:A1;R7:A4;R8:A2;R9:A5", "shield_q": "R4:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10187, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [10]}
+{"strategy": "delayed", "seed": 10188, "diverge_round": 10, "baseline_q": "R8:A5;R9:A1;R10:A2", "shield_q": "R8:A5;R10:A1", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10189, "diverge_round": 8, "baseline_q": "R7:A2;R8:A4;R9:A1;R10:A5", "shield_q": "", "sabotage_rounds": [9]}
+{"strategy": "delayed", "seed": 10190, "diverge_round": 9, "baseline_q": "R8:A3;R9:A4;R10:A5", "shield_q": "R9:A3", "sabotage_rounds": [8]}
+{"strategy": "delayed", "seed": 10191, "diverge_round": 12, "baseline_q": "R9:A3;R11:A2;R12:A5", "shield_q": "R9:A3", "sabotage_rounds": [7, 9]}
+{"strategy": "delayed", "seed": 10192, "diverge_round": 4, "baseline_q": "R3:A1;R5:A2;R6:A4", "shield_q": "", "sabotage_rounds": []}
+{"strategy": "delayed", "seed": 10193, "diverge_round": null, "baseline_q": "R11:A4", "shield_q": "R11:A4", "sabotage_rounds": [7, 11]}
+{"strategy": "delayed", "seed": 10194, "diverge_round": 8, "baseline_q": "R7:A2;R8:A5;R10:A1;R11:A3", "shield_q": "", "sabotage_rounds": [8, 10, 11]}
+{"strategy": "delayed", "seed": 10195, "diverge_round": 10, "baseline_q": "R9:A5;R10:A1;R11:A4", "shield_q": "R10:A4", "sabotage_rounds": [7, 10]}
+{"strategy": "delayed", "seed": 10196, "diverge_round": 12, "baseline_q": "R9:A4;R11:A5", "shield_q": "R9:A4", "sabotage_rounds": [8, 9]}
+{"strategy": "delayed", "seed": 10197, "diverge_round": 11, "baseline_q": "R10:A5", "shield_q": "", "sabotage_rounds": [9, 10]}
+{"strategy": "delayed", "seed": 10198, "diverge_round": null, "baseline_q": "", "shield_q": "", "sabotage_rounds": [11]}
+{"strategy": "delayed", "seed": 10199, "diverge_round": 7, "baseline_q": "R4:A4;R6:A1;R7:A2;R9:A5", "shield_q": "R4:A4", "sabotage_rounds": [7]}
+{"strategy": "subtle", "seed": 10000, "diverge_round": 4, "baseline_q": "R2:A1;R3:A5", "shield_q": "R2:A1;R7:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10001, "diverge_round": 5, "baseline_q": "R4:A4;R5:A5;R8:A2", "shield_q": "R4:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10002, "diverge_round": 7, "baseline_q": "R5:A2;R6:A3;R10:A4;R11:A1;R12:A5", "shield_q": "R5:A2", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10003, "diverge_round": 5, "baseline_q": "R4:A1;R5:A4;R6:A5", "shield_q": "R7:A4", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10004, "diverge_round": 9, "baseline_q": "R3:A5;R7:A2;R8:A3;R9:A1;R10:A4", "shield_q": "R3:A5;R7:A2", "sabotage_rounds": [5, 7]}
+{"strategy": "subtle", "seed": 10005, "diverge_round": 12, "baseline_q": "R5:A4;R11:A5", "shield_q": "R5:A4", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10006, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2;R9:A4", "shield_q": "R4:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10007, "diverge_round": 8, "baseline_q": "R3:A5;R7:A4", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10008, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2;R6:A4;R7:A5", "shield_q": "R4:A2;R6:A1", "sabotage_rounds": [1, 4, 5]}
+{"strategy": "subtle", "seed": 10009, "diverge_round": 4, "baseline_q": "R3:A5;R5:A1;R9:A3", "shield_q": "", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10010, "diverge_round": null, "baseline_q": "R9:A5;R12:A3", "shield_q": "R9:A5", "sabotage_rounds": [5, 9]}
+{"strategy": "subtle", "seed": 10011, "diverge_round": 5, "baseline_q": "R4:A1;R5:A4;R8:A5;R11:A2", "shield_q": "R4:A4", "sabotage_rounds": [1, 4, 5]}
+{"strategy": "subtle", "seed": 10012, "diverge_round": 8, "baseline_q": "R2:A5;R7:A4;R8:A2;R9:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10013, "diverge_round": null, "baseline_q": "R3:A3", "shield_q": "R3:A3", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10014, "diverge_round": 4, "baseline_q": "R3:A3;R5:A2", "shield_q": "R4:A2;R6:A3", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10015, "diverge_round": 11, "baseline_q": "R3:A1;R10:A2;R11:A5;R12:A3", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10016, "diverge_round": 5, "baseline_q": "R4:A4;R5:A5;R6:A1;R9:A2", "shield_q": "R4:A5", "sabotage_rounds": [3, 4, 5]}
+{"strategy": "subtle", "seed": 10017, "diverge_round": 12, "baseline_q": "R4:A4;R11:A3;R12:A2", "shield_q": "R4:A4;R12:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10018, "diverge_round": 11, "baseline_q": "R3:A3;R10:A1;R11:A4", "shield_q": "R3:A3", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10019, "diverge_round": 6, "baseline_q": "R4:A5;R5:A1;R8:A3;R9:A4", "shield_q": "R4:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10020, "diverge_round": null, "baseline_q": "R4:A1", "shield_q": "R4:A1", "sabotage_rounds": [3, 4]}
+{"strategy": "subtle", "seed": 10021, "diverge_round": null, "baseline_q": "R3:A2", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10022, "diverge_round": 6, "baseline_q": "R3:A3;R5:A4;R11:A5", "shield_q": "R3:A3", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10023, "diverge_round": 5, "baseline_q": "R4:A3;R7:A1;R8:A4;R10:A2", "shield_q": "R7:A3", "sabotage_rounds": [3, 4]}
+{"strategy": "subtle", "seed": 10024, "diverge_round": null, "baseline_q": "R3:A1", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10025, "diverge_round": 11, "baseline_q": "R9:A3;R10:A1;R11:A2;R12:A5", "shield_q": "R9:A3;R12:A2", "sabotage_rounds": [6, 9]}
+{"strategy": "subtle", "seed": 10026, "diverge_round": 6, "baseline_q": "R3:A2;R5:A4;R6:A3;R8:A1;R9:A5", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10027, "diverge_round": 11, "baseline_q": "R8:A1;R10:A5", "shield_q": "R8:A1", "sabotage_rounds": [4, 8]}
+{"strategy": "subtle", "seed": 10028, "diverge_round": 7, "baseline_q": "R5:A1;R6:A3", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10029, "diverge_round": 7, "baseline_q": "R5:A1;R6:A4;R8:A5", "shield_q": "R5:A1;R8:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10030, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5;R8:A1", "shield_q": "R4:A5", "sabotage_rounds": [1, 4, 5]}
+{"strategy": "subtle", "seed": 10031, "diverge_round": 6, "baseline_q": "R5:A2;R6:A3;R7:A5;R10:A1;R11:A4", "shield_q": "", "sabotage_rounds": [5, 6]}
+{"strategy": "subtle", "seed": 10032, "diverge_round": 9, "baseline_q": "R6:A2;R8:A4;R11:A1;R12:A5", "shield_q": "R6:A2", "sabotage_rounds": [4, 6]}
+{"strategy": "subtle", "seed": 10033, "diverge_round": null, "baseline_q": "R9:A3", "shield_q": "R9:A3", "sabotage_rounds": [5, 9]}
+{"strategy": "subtle", "seed": 10034, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2", "shield_q": "R4:A2", "sabotage_rounds": [3, 4]}
+{"strategy": "subtle", "seed": 10035, "diverge_round": 7, "baseline_q": "R5:A4;R6:A1;R7:A5;R8:A3", "shield_q": "R5:A4", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10036, "diverge_round": 7, "baseline_q": "R5:A1;R6:A3;R7:A4", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10037, "diverge_round": 9, "baseline_q": "R6:A4;R8:A2;R9:A5;R11:A1;R12:A3", "shield_q": "R6:A4", "sabotage_rounds": [2, 6]}
+{"strategy": "subtle", "seed": 10038, "diverge_round": 10, "baseline_q": "R2:A1;R9:A2;R10:A4;R11:A3", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10039, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10040, "diverge_round": 3, "baseline_q": "R2:A1;R4:A5;R5:A2;R6:A4", "shield_q": "R4:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10041, "diverge_round": 6, "baseline_q": "R4:A3;R5:A1;R12:A2", "shield_q": "R4:A3", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10042, "diverge_round": 5, "baseline_q": "R2:A3;R4:A4;R10:A1;R12:A2", "shield_q": "R2:A3;R11:A2;R12:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10043, "diverge_round": 10, "baseline_q": "R3:A5;R9:A3;R10:A1;R11:A2", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10044, "diverge_round": 5, "baseline_q": "R3:A3;R4:A4;R8:A1;R9:A5", "shield_q": "R3:A3;R9:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10045, "diverge_round": 7, "baseline_q": "R6:A1;R7:A4;R9:A3", "shield_q": "R6:A4", "sabotage_rounds": [3, 6, 7]}
+{"strategy": "subtle", "seed": 10046, "diverge_round": 9, "baseline_q": "R6:A2;R8:A4;R9:A3;R10:A1;R11:A5", "shield_q": "R6:A2;R10:A3", "sabotage_rounds": [3, 6]}
+{"strategy": "subtle", "seed": 10047, "diverge_round": 6, "baseline_q": "R5:A1;R6:A4;R7:A5", "shield_q": "R5:A4", "sabotage_rounds": [3, 5, 6]}
+{"strategy": "subtle", "seed": 10048, "diverge_round": 5, "baseline_q": "R4:A4;R5:A2", "shield_q": "R6:A2", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10049, "diverge_round": 10, "baseline_q": "R5:A4;R9:A3;R10:A1;R11:A2", "shield_q": "R5:A4", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10050, "diverge_round": 9, "baseline_q": "R4:A1;R8:A2", "shield_q": "R4:A1", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10051, "diverge_round": 5, "baseline_q": "R4:A4;R5:A1;R6:A2;R8:A3;R9:A5", "shield_q": "R8:A1;R9:A3", "sabotage_rounds": [1, 5]}
+{"strategy": "subtle", "seed": 10052, "diverge_round": null, "baseline_q": "R4:A4", "shield_q": "R4:A4", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10053, "diverge_round": 9, "baseline_q": "R3:A2;R8:A1", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10054, "diverge_round": null, "baseline_q": "R7:A4;R12:A3", "shield_q": "R7:A4", "sabotage_rounds": [4, 7]}
+{"strategy": "subtle", "seed": 10055, "diverge_round": 7, "baseline_q": "R6:A2;R7:A5", "shield_q": "R6:A5", "sabotage_rounds": [4, 6, 7]}
+{"strategy": "subtle", "seed": 10056, "diverge_round": null, "baseline_q": "R2:A4", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10057, "diverge_round": 5, "baseline_q": "R2:A2;R4:A1;R9:A5;R12:A3", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10058, "diverge_round": 11, "baseline_q": "R7:A1;R10:A2", "shield_q": "R7:A1", "sabotage_rounds": [6, 7]}
+{"strategy": "subtle", "seed": 10059, "diverge_round": 8, "baseline_q": "R7:A3;R8:A1;R9:A5", "shield_q": "R8:A1", "sabotage_rounds": [5, 8]}
+{"strategy": "subtle", "seed": 10060, "diverge_round": 6, "baseline_q": "R5:A3;R6:A5;R11:A1;R12:A2", "shield_q": "R5:A5", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10061, "diverge_round": 3, "baseline_q": "R2:A5;R4:A1;R7:A3", "shield_q": "R5:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10062, "diverge_round": 10, "baseline_q": "R2:A1;R9:A2", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10063, "diverge_round": 9, "baseline_q": "R8:A3;R9:A5;R10:A2;R11:A4", "shield_q": "R8:A5", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "subtle", "seed": 10064, "diverge_round": 12, "baseline_q": "R6:A4;R11:A1;R12:A3", "shield_q": "R6:A4", "sabotage_rounds": [1, 6]}
+{"strategy": "subtle", "seed": 10065, "diverge_round": 12, "baseline_q": "R11:A3;R12:A2", "shield_q": "", "sabotage_rounds": [6, 12]}
+{"strategy": "subtle", "seed": 10066, "diverge_round": 7, "baseline_q": "R2:A4;R6:A3", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10067, "diverge_round": 8, "baseline_q": "R6:A2;R7:A4", "shield_q": "R6:A2", "sabotage_rounds": [4, 6]}
+{"strategy": "subtle", "seed": 10068, "diverge_round": 7, "baseline_q": "R5:A5;R6:A1;R7:A3;R8:A4", "shield_q": "R5:A5", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10069, "diverge_round": 11, "baseline_q": "R7:A2;R10:A1;R11:A4", "shield_q": "R7:A2", "sabotage_rounds": [6, 7]}
+{"strategy": "subtle", "seed": 10070, "diverge_round": 5, "baseline_q": "R4:A2;R5:A3;R12:A4", "shield_q": "R8:A3;R11:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10071, "diverge_round": null, "baseline_q": "R3:A5;R11:A1;R12:A3", "shield_q": "R3:A5;R11:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10072, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4;R10:A5;R11:A2", "shield_q": "", "sabotage_rounds": [7, 8, 9]}
+{"strategy": "subtle", "seed": 10073, "diverge_round": 9, "baseline_q": "R7:A1;R8:A3;R9:A4", "shield_q": "R7:A1", "sabotage_rounds": [4, 7]}
+{"strategy": "subtle", "seed": 10074, "diverge_round": 7, "baseline_q": "R6:A4;R9:A2;R10:A3;R11:A1;R12:A5", "shield_q": "R8:A4", "sabotage_rounds": [3, 10, 11]}
+{"strategy": "subtle", "seed": 10075, "diverge_round": 7, "baseline_q": "R5:A3;R6:A1;R7:A5;R8:A2;R9:A4", "shield_q": "R5:A3;R7:A1;R9:A5", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10076, "diverge_round": 11, "baseline_q": "R3:A1;R10:A3;R12:A4", "shield_q": "R3:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10077, "diverge_round": null, "baseline_q": "R3:A2;R12:A4", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10078, "diverge_round": 8, "baseline_q": "R4:A1;R7:A3;R8:A5;R9:A4", "shield_q": "R4:A1", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10079, "diverge_round": null, "baseline_q": "R4:A2", "shield_q": "R4:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10080, "diverge_round": 4, "baseline_q": "R3:A2;R4:A5;R6:A3;R7:A4", "shield_q": "R3:A5;R10:A3", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10081, "diverge_round": 4, "baseline_q": "R2:A2;R3:A5;R6:A3;R12:A1", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10082, "diverge_round": 3, "baseline_q": "R2:A4;R4:A3;R6:A1;R11:A2;R12:A5", "shield_q": "R5:A1", "sabotage_rounds": [4, 6]}
+{"strategy": "subtle", "seed": 10083, "diverge_round": 9, "baseline_q": "R6:A3;R8:A2", "shield_q": "R6:A3", "sabotage_rounds": [5, 6]}
+{"strategy": "subtle", "seed": 10084, "diverge_round": 9, "baseline_q": "R2:A4;R8:A3;R12:A1", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10085, "diverge_round": 6, "baseline_q": "R2:A5;R5:A1;R9:A4;R10:A2;R11:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10086, "diverge_round": null, "baseline_q": "R4:A4", "shield_q": "R4:A4", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10087, "diverge_round": 4, "baseline_q": "R3:A1;R4:A2;R5:A3;R6:A4;R7:A5", "shield_q": "R8:A1;R9:A5;R10:A3", "sabotage_rounds": [2, 6, 7]}
+{"strategy": "subtle", "seed": 10088, "diverge_round": 5, "baseline_q": "R3:A2;R4:A3;R11:A1;R12:A5", "shield_q": "R3:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10089, "diverge_round": null, "baseline_q": "R3:A4", "shield_q": "R3:A4", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10090, "diverge_round": 11, "baseline_q": "R10:A1;R11:A2;R12:A4", "shield_q": "R11:A2", "sabotage_rounds": [1, 11]}
+{"strategy": "subtle", "seed": 10091, "diverge_round": 9, "baseline_q": "R8:A1;R10:A5;R11:A3;R12:A4", "shield_q": "R10:A5;R12:A1", "sabotage_rounds": [7, 10]}
+{"strategy": "subtle", "seed": 10092, "diverge_round": 11, "baseline_q": "R3:A1;R10:A4", "shield_q": "R3:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10093, "diverge_round": 6, "baseline_q": "R4:A3;R5:A4;R10:A1;R11:A2;R12:A5", "shield_q": "R4:A3", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10094, "diverge_round": null, "baseline_q": "R6:A1;R7:A4", "shield_q": "R6:A1;R7:A4", "sabotage_rounds": [5, 7]}
+{"strategy": "subtle", "seed": 10095, "diverge_round": 6, "baseline_q": "R5:A1;R6:A2;R11:A4;R12:A5", "shield_q": "R5:A2", "sabotage_rounds": [2, 5, 6]}
+{"strategy": "subtle", "seed": 10096, "diverge_round": 4, "baseline_q": "R2:A1;R3:A4;R5:A2;R10:A3;R11:A5", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10097, "diverge_round": 9, "baseline_q": "R3:A1;R8:A4;R12:A2", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10098, "diverge_round": 5, "baseline_q": "R3:A1;R4:A3;R6:A2;R7:A4", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10099, "diverge_round": 6, "baseline_q": "R4:A1;R5:A5;R8:A2;R12:A3", "shield_q": "R4:A1;R11:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10100, "diverge_round": 3, "baseline_q": "R2:A5;R3:A3;R7:A4;R8:A1;R9:A2", "shield_q": "R4:A3;R7:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10101, "diverge_round": 7, "baseline_q": "R5:A1;R6:A3;R7:A2", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10102, "diverge_round": null, "baseline_q": "R2:A2", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10103, "diverge_round": 8, "baseline_q": "R7:A4;R8:A5;R11:A2", "shield_q": "R7:A5", "sabotage_rounds": [1, 7]}
+{"strategy": "subtle", "seed": 10104, "diverge_round": 5, "baseline_q": "R4:A1;R5:A2;R7:A5;R8:A3;R9:A4", "shield_q": "R4:A2;R5:A1", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10105, "diverge_round": null, "baseline_q": "R6:A4", "shield_q": "R6:A4", "sabotage_rounds": [3, 6]}
+{"strategy": "subtle", "seed": 10106, "diverge_round": 5, "baseline_q": "R4:A4;R5:A2;R8:A1;R11:A3;R12:A5", "shield_q": "R6:A2", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10107, "diverge_round": 7, "baseline_q": "R6:A4;R7:A5;R8:A1;R9:A2;R10:A3", "shield_q": "R7:A1", "sabotage_rounds": [1, 7, 8]}
+{"strategy": "subtle", "seed": 10108, "diverge_round": 7, "baseline_q": "R3:A4;R6:A1;R7:A2", "shield_q": "R3:A4", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10109, "diverge_round": 5, "baseline_q": "R2:A3;R4:A1;R5:A5;R6:A2;R7:A4", "shield_q": "R2:A3;R9:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10110, "diverge_round": null, "baseline_q": "R3:A1", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10111, "diverge_round": 4, "baseline_q": "R3:A2;R7:A3;R9:A4;R10:A5", "shield_q": "R5:A3", "sabotage_rounds": [3, 7]}
+{"strategy": "subtle", "seed": 10112, "diverge_round": null, "baseline_q": "R3:A2", "shield_q": "R3:A2", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10113, "diverge_round": 4, "baseline_q": "R2:A4;R3:A2;R4:A5;R10:A1;R11:A3", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10114, "diverge_round": null, "baseline_q": "R2:A1", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10115, "diverge_round": 11, "baseline_q": "R9:A1;R10:A3", "shield_q": "R9:A1", "sabotage_rounds": [8, 9]}
+{"strategy": "subtle", "seed": 10116, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10117, "diverge_round": 4, "baseline_q": "R3:A1;R4:A3;R6:A2", "shield_q": "R3:A3", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10118, "diverge_round": 7, "baseline_q": "R5:A2;R6:A3;R8:A1;R9:A4;R10:A5", "shield_q": "R5:A2;R7:A3", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10119, "diverge_round": 9, "baseline_q": "R8:A1;R9:A4", "shield_q": "R8:A4", "sabotage_rounds": [7, 8]}
+{"strategy": "subtle", "seed": 10120, "diverge_round": 7, "baseline_q": "R6:A4;R7:A5;R8:A1", "shield_q": "R6:A5", "sabotage_rounds": [1, 6, 7]}
+{"strategy": "subtle", "seed": 10121, "diverge_round": null, "baseline_q": "R2:A3", "shield_q": "R2:A3", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10122, "diverge_round": null, "baseline_q": "R6:A2", "shield_q": "R6:A2", "sabotage_rounds": [1, 6]}
+{"strategy": "subtle", "seed": 10123, "diverge_round": 4, "baseline_q": "R3:A4;R4:A5;R5:A2;R6:A3", "shield_q": "R8:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10124, "diverge_round": 3, "baseline_q": "R2:A4;R3:A5;R7:A1;R8:A3", "shield_q": "R2:A5;R6:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10125, "diverge_round": 12, "baseline_q": "R2:A5;R11:A2;R12:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10126, "diverge_round": 11, "baseline_q": "R4:A3;R10:A2;R11:A4;R12:A5", "shield_q": "R4:A3", "sabotage_rounds": [3, 4]}
+{"strategy": "subtle", "seed": 10127, "diverge_round": 10, "baseline_q": "R2:A1;R9:A3;R10:A5;R12:A2", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10128, "diverge_round": 7, "baseline_q": "R3:A4;R6:A1", "shield_q": "R3:A4", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10129, "diverge_round": 6, "baseline_q": "R4:A1;R5:A2;R6:A3", "shield_q": "R4:A1;R10:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10130, "diverge_round": 5, "baseline_q": "R3:A5;R4:A3", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10131, "diverge_round": 4, "baseline_q": "R3:A2;R4:A5", "shield_q": "R4:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10132, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5", "shield_q": "R4:A5", "sabotage_rounds": [3, 4, 5]}
+{"strategy": "subtle", "seed": 10133, "diverge_round": null, "baseline_q": "R4:A4", "shield_q": "R4:A4", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10134, "diverge_round": 8, "baseline_q": "R3:A5;R7:A1;R11:A3", "shield_q": "R3:A5", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10135, "diverge_round": 11, "baseline_q": "R6:A2;R10:A4", "shield_q": "R6:A2", "sabotage_rounds": [3, 6]}
+{"strategy": "subtle", "seed": 10136, "diverge_round": 5, "baseline_q": "R4:A3;R6:A1;R7:A2;R12:A4", "shield_q": "R6:A2", "sabotage_rounds": [4, 6]}
+{"strategy": "subtle", "seed": 10137, "diverge_round": 4, "baseline_q": "R2:A2;R3:A3;R5:A4;R10:A1;R11:A5", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10138, "diverge_round": 5, "baseline_q": "R4:A1;R6:A2;R8:A5;R9:A3;R10:A4", "shield_q": "R7:A4", "sabotage_rounds": [8, 9, 10]}
+{"strategy": "subtle", "seed": 10139, "diverge_round": 5, "baseline_q": "R3:A4;R4:A5;R6:A2;R7:A1;R8:A3", "shield_q": "R3:A4;R5:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10140, "diverge_round": 4, "baseline_q": "R3:A1;R4:A5;R7:A2;R8:A3", "shield_q": "R3:A5", "sabotage_rounds": [2, 3, 4]}
+{"strategy": "subtle", "seed": 10141, "diverge_round": 8, "baseline_q": "R6:A5;R7:A4;R8:A3;R10:A1;R11:A2", "shield_q": "R6:A5", "sabotage_rounds": [5, 6]}
+{"strategy": "subtle", "seed": 10142, "diverge_round": 4, "baseline_q": "R3:A2;R5:A4;R6:A5;R11:A1", "shield_q": "R7:A4;R8:A5", "sabotage_rounds": [2, 5, 6]}
+{"strategy": "subtle", "seed": 10143, "diverge_round": 7, "baseline_q": "R2:A4;R6:A3;R7:A5;R8:A2", "shield_q": "R2:A4", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10144, "diverge_round": 11, "baseline_q": "R3:A5;R10:A3", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10145, "diverge_round": 5, "baseline_q": "R4:A2;R5:A5;R7:A1;R8:A3", "shield_q": "R4:A5", "sabotage_rounds": [3, 4, 5]}
+{"strategy": "subtle", "seed": 10146, "diverge_round": 8, "baseline_q": "R5:A5;R7:A4;R8:A2;R9:A1;R10:A3", "shield_q": "R5:A5", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10147, "diverge_round": 12, "baseline_q": "R2:A1;R11:A2;R12:A4", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10148, "diverge_round": 8, "baseline_q": "R5:A1;R7:A3", "shield_q": "R5:A1", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10149, "diverge_round": 9, "baseline_q": "R6:A2;R8:A3;R9:A5", "shield_q": "R6:A2", "sabotage_rounds": [5, 6]}
+{"strategy": "subtle", "seed": 10150, "diverge_round": 6, "baseline_q": "R5:A4;R7:A1;R8:A3;R9:A2;R10:A5", "shield_q": "R12:A3", "sabotage_rounds": [6, 7]}
+{"strategy": "subtle", "seed": 10151, "diverge_round": 5, "baseline_q": "R4:A5;R6:A3;R7:A4;R9:A1;R10:A2", "shield_q": "R6:A3", "sabotage_rounds": [4, 6]}
+{"strategy": "subtle", "seed": 10152, "diverge_round": 12, "baseline_q": "R5:A4;R7:A2;R11:A5", "shield_q": "R5:A4;R7:A2", "sabotage_rounds": [2, 7]}
+{"strategy": "subtle", "seed": 10153, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [4, 5]}
+{"strategy": "subtle", "seed": 10154, "diverge_round": 6, "baseline_q": "R3:A1;R5:A2;R6:A4;R7:A3;R8:A5", "shield_q": "R3:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10155, "diverge_round": 4, "baseline_q": "R3:A3;R4:A2;R5:A4", "shield_q": "R6:A2", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10156, "diverge_round": 6, "baseline_q": "R3:A5;R5:A1;R6:A4;R10:A2;R11:A3", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10157, "diverge_round": 7, "baseline_q": "R5:A2;R6:A1;R7:A3;R9:A4;R10:A5", "shield_q": "R5:A2;R9:A1", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10158, "diverge_round": 5, "baseline_q": "R3:A2;R4:A4;R7:A1;R11:A3;R12:A5", "shield_q": "R3:A2;R7:A1", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10159, "diverge_round": 12, "baseline_q": "R10:A1;R11:A4;R12:A5", "shield_q": "R10:A1", "sabotage_rounds": [3, 10]}
+{"strategy": "subtle", "seed": 10160, "diverge_round": 4, "baseline_q": "R2:A2;R3:A3;R11:A1", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10161, "diverge_round": 6, "baseline_q": "R2:A2;R5:A1;R7:A3;R8:A5", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10162, "diverge_round": 4, "baseline_q": "R3:A1;R4:A3;R6:A2;R11:A4;R12:A5", "shield_q": "R5:A3;R6:A5", "sabotage_rounds": [3, 4]}
+{"strategy": "subtle", "seed": 10163, "diverge_round": 7, "baseline_q": "R6:A1;R7:A4;R8:A2;R12:A3", "shield_q": "R7:A2", "sabotage_rounds": [2, 8]}
+{"strategy": "subtle", "seed": 10164, "diverge_round": 7, "baseline_q": "R2:A3;R6:A1;R7:A2;R9:A4;R10:A5", "shield_q": "R2:A3;R7:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10165, "diverge_round": 8, "baseline_q": "R6:A1;R7:A5;R8:A3;R9:A4", "shield_q": "R6:A1;R9:A5", "sabotage_rounds": [4, 6]}
+{"strategy": "subtle", "seed": 10166, "diverge_round": 3, "baseline_q": "R2:A2;R4:A3;R8:A1;R9:A4;R10:A5", "shield_q": "R5:A3", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10167, "diverge_round": 3, "baseline_q": "R2:A2;R4:A1;R8:A5;R9:A3;R10:A4", "shield_q": "R3:A1;R12:A5", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10168, "diverge_round": null, "baseline_q": "R8:A1", "shield_q": "R8:A1", "sabotage_rounds": [7, 8]}
+{"strategy": "subtle", "seed": 10169, "diverge_round": null, "baseline_q": "R5:A2", "shield_q": "R5:A2", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10170, "diverge_round": 4, "baseline_q": "R3:A3;R4:A4;R5:A2;R8:A1;R9:A5", "shield_q": "R6:A4;R8:A2", "sabotage_rounds": [2, 3]}
+{"strategy": "subtle", "seed": 10171, "diverge_round": 9, "baseline_q": "R4:A4;R8:A5;R9:A3;R10:A1;R11:A2", "shield_q": "R4:A4;R9:A3", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10172, "diverge_round": 4, "baseline_q": "R2:A2;R3:A3;R7:A1;R8:A5", "shield_q": "R2:A2", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10173, "diverge_round": 4, "baseline_q": "R3:A1;R4:A5", "shield_q": "R3:A5", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10174, "diverge_round": 10, "baseline_q": "R9:A2;R12:A1", "shield_q": "R11:A1", "sabotage_rounds": [8, 12]}
+{"strategy": "subtle", "seed": 10175, "diverge_round": 5, "baseline_q": "R3:A1;R4:A4", "shield_q": "R3:A1", "sabotage_rounds": [1, 3]}
+{"strategy": "subtle", "seed": 10176, "diverge_round": 8, "baseline_q": "R7:A3;R8:A5;R9:A4", "shield_q": "R7:A5", "sabotage_rounds": [2, 7, 8]}
+{"strategy": "subtle", "seed": 10177, "diverge_round": 5, "baseline_q": "R4:A2;R5:A3;R8:A5", "shield_q": "R5:A3", "sabotage_rounds": [1, 4]}
+{"strategy": "subtle", "seed": 10178, "diverge_round": 7, "baseline_q": "R6:A2;R7:A3;R8:A5", "shield_q": "R7:A5", "sabotage_rounds": [6, 8]}
+{"strategy": "subtle", "seed": 10179, "diverge_round": 4, "baseline_q": "R3:A1;R4:A5", "shield_q": "R3:A5", "sabotage_rounds": [1, 3, 4]}
+{"strategy": "subtle", "seed": 10180, "diverge_round": 12, "baseline_q": "R7:A3;R11:A1;R12:A5", "shield_q": "R7:A3", "sabotage_rounds": [2, 7]}
+{"strategy": "subtle", "seed": 10181, "diverge_round": 6, "baseline_q": "R5:A1", "shield_q": "R6:A1", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10182, "diverge_round": 8, "baseline_q": "R6:A1;R7:A2", "shield_q": "R6:A1", "sabotage_rounds": [3, 6]}
+{"strategy": "subtle", "seed": 10183, "diverge_round": 4, "baseline_q": "R3:A2;R6:A5;R12:A1", "shield_q": "R4:A5", "sabotage_rounds": [3, 6]}
+{"strategy": "subtle", "seed": 10184, "diverge_round": 9, "baseline_q": "R2:A5;R8:A2;R9:A3", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10185, "diverge_round": null, "baseline_q": "R10:A1;R12:A2", "shield_q": "R10:A1", "sabotage_rounds": [6, 10]}
+{"strategy": "subtle", "seed": 10186, "diverge_round": 5, "baseline_q": "R4:A1;R5:A5;R7:A3;R8:A4", "shield_q": "R4:A5", "sabotage_rounds": [3, 4]}
+{"strategy": "subtle", "seed": 10187, "diverge_round": null, "baseline_q": "R5:A3", "shield_q": "R5:A3", "sabotage_rounds": [3, 5]}
+{"strategy": "subtle", "seed": 10188, "diverge_round": 11, "baseline_q": "R8:A5;R9:A1;R10:A2", "shield_q": "R8:A5;R9:A1", "sabotage_rounds": [5, 9]}
+{"strategy": "subtle", "seed": 10189, "diverge_round": 7, "baseline_q": "R5:A1;R6:A2;R12:A4", "shield_q": "R5:A1", "sabotage_rounds": [1, 5]}
+{"strategy": "subtle", "seed": 10190, "diverge_round": 4, "baseline_q": "R2:A3;R3:A5;R10:A2", "shield_q": "R2:A3", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10191, "diverge_round": 7, "baseline_q": "R4:A3;R6:A1", "shield_q": "R4:A3", "sabotage_rounds": [3, 4]}
+{"strategy": "subtle", "seed": 10192, "diverge_round": 6, "baseline_q": "R2:A1;R5:A2;R9:A5;R10:A3;R11:A4", "shield_q": "R2:A1", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10193, "diverge_round": 6, "baseline_q": "R5:A1;R6:A4;R10:A2;R11:A5", "shield_q": "R5:A4", "sabotage_rounds": [1, 5, 6]}
+{"strategy": "subtle", "seed": 10194, "diverge_round": 8, "baseline_q": "R7:A2;R8:A5;R9:A3", "shield_q": "R8:A3;R11:A1", "sabotage_rounds": [3, 8]}
+{"strategy": "subtle", "seed": 10195, "diverge_round": 10, "baseline_q": "R4:A4;R9:A3;R12:A1", "shield_q": "R4:A4", "sabotage_rounds": [2, 4]}
+{"strategy": "subtle", "seed": 10196, "diverge_round": 12, "baseline_q": "R8:A4;R11:A5", "shield_q": "R8:A4", "sabotage_rounds": [1, 8]}
+{"strategy": "subtle", "seed": 10197, "diverge_round": null, "baseline_q": "R2:A5", "shield_q": "R2:A5", "sabotage_rounds": [1, 2]}
+{"strategy": "subtle", "seed": 10198, "diverge_round": 7, "baseline_q": "R5:A2;R6:A3", "shield_q": "R5:A2", "sabotage_rounds": [2, 5]}
+{"strategy": "subtle", "seed": 10199, "diverge_round": 5, "baseline_q": "R3:A2;R4:A4;R8:A1;R9:A5;R10:A3", "shield_q": "R3:A2;R8:A4", "sabotage_rounds": [2, 3]}

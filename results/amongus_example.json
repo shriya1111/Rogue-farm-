@@ -1,0 +1,585 @@
+{
+ "game": "2025-02-01_llama_llama_100_games_v3/Game 26",
+ "events": [
+  {
+   "game": "Game 26",
+   "step": 1,
+   "speaker": "Player 7: pink",
+   "kind": "call_meeting",
+   "text": ""
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "Hey, has anyone seen anything unusual so far? I was just doing my task and didn't notice anything out of the ordinary. Does anyone have any ideas who might be the Impostor or have any suspicions?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 2: cyan",
+   "kind": "speak",
+   "text": "I moved from Upper Engine to Reactor to start working on the Start Reactor task. I didn't see anything unusual, but I did notice that Players 3: purple and 4: orange were also in Upper Engine. Can anyone share what tasks they are working on and if they've seen any other players' movements that seem suspicious?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 3: purple",
+   "kind": "speak",
+   "text": "I haven't seen anything unusual myself, but I do have tasks that require me to move to Security and Lower Engine. Can anyone share what tasks they are working on and if they've seen any other players' movements that seem suspicious, especially around the Upper Engine and Reactor areas?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "I'd like to share that I completed the 'Align Engine Output' task in Upper Engine. Before that, I was with Players 2 and 3 in Upper Engine. After completing my task, I returned to the Cafeteria. I haven't seen anything suspicious personally, but I think it's crucial we discuss the potential implications of our task assignments and movements. Can we share more about our tasks and any observations we might have, especially regarding who was where and when?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 5: yellow",
+   "kind": "speak",
+   "text": "I haven't seen anything unusual myself, but I do have a task that requires me to move to Security. Can anyone confirm if they've seen any other players around the Security area? I'd like to know if I'll be alone when I head there to complete my task."
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "I need to share something critical. I directly witnessed Player 5: yellow kill Player 6: green right here in the Cafeteria. Given this, I strongly believe Player 5: yellow is an Impostor. We should consider ejecting them to protect ourselves and the mission. Does anyone else have information or observations that could support or refute this accusation?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I'm shocked to hear about the accusation against Player 5: yellow. Player 7: pink, can you provide more details about what you witnessed? It's crucial we understand the situation clearly before making any decisions. Meanwhile, has anyone else noticed anything unusual around the time Player 6: green was allegedly killed?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 2: cyan",
+   "kind": "speak",
+   "text": "I'd like to hear from Player 5: yellow regarding the accusation made by Player 7: pink. Can you provide an alibi for the time Player 6: green was allegedly killed? Additionally, I'd like to share that I moved from Upper Engine to Reactor during the task phase and didn't notice anything unusual. However, I did see Players 3: purple and 4: orange in Upper Engine. Can anyone confirm if they've seen any other players around the Reactor or Upper Engine areas?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 3: purple",
+   "kind": "speak",
+   "text": "I'd like to hear more about the events surrounding the alleged killing of Player 6: green by Player 5: yellow, as described by Player 7: pink. Player 5: yellow, can you provide a detailed alibi for the time in question and explain your movements leading up to and after the incident? Additionally, considering my tasks require me to visit Security and Lower Engine, has anyone else been to these areas and noticed anything unusual or seen other players around these locations?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "I'd like to contribute to the discussion by sharing my timeline and tasks again for clarity. After completing the 'Align Engine Output' task in Upper Engine, where I was with Players 2 and 3, I returned to the Cafeteria. I haven't witnessed any suspicious activity personally, but I believe it's essential we scrutinize the movements and tasks of all players. Player 7's accusation against Player 5 is serious, and we need to consider all possibilities. Player 5, can you please provide a detailed account of your movements and actions around the time Player 6 was allegedly killed? Additionally, has anyone else noticed anything unusual or have information that could either support or refute the accusation made by Player 7?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 5: yellow",
+   "kind": "speak",
+   "text": "I understand the concern about the accusation made by Player 7, and I'm happy to provide more information about my movements. I was indeed moving around the ship to complete my tasks, but I don't recall seeing anything unusual around the time Player 6 was allegedly killed. I'd like to know more about what Player 7 witnessed and what led them to accuse me. Can Player 7 provide more details about their claim? Additionally, I'd like to ask Players 2 and 3 if they noticed anything unusual when they were in Upper Engine, and if they saw anyone else around that area?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "I'd like to provide more details about what I witnessed. I saw Player 5: yellow kill Player 6: green right here in the Cafeteria. I understand that Player 5: yellow has asked for more information, but I assure you, I am certain of what I saw. I believe this is a critical piece of evidence that we should consider when deciding who to eject. I urge everyone to take this accusation seriously and consider the possibility that Player 5: yellow is indeed an Impostor. Let's discuss this further and see if anyone else has any information that could support or refute this claim."
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I'm still trying to process the information shared by Player 7: pink. Given the seriousness of the accusation, I think it's crucial we consider all possibilities and gather as much information as we can. Player 5: yellow, can you tell us more about your actions leading up to the alleged killing of Player 6: green? Were you alone in the Cafeteria at any point, and did you see anyone else around that time? Additionally, has anyone noticed anything unusual about the vents or any other areas of the ship that might indicate Impostor activity?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 2: cyan",
+   "kind": "speak",
+   "text": "I'd like to follow up on Player 1: blue's question to Player 5: yellow. Can you provide more specific details about your actions leading up to the alleged killing of Player 6: green? Were you alone in the Cafeteria at any point, and did you see anyone else around that time? Additionally, I'd like to share my own observations - I moved from Upper Engine to Reactor during the task phase and didn't notice anything unusual. However, I did see Players 3: purple and 4: orange in Upper Engine. Can anyone confirm if they've seen any other players around the Reactor or Upper Engine areas?"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 3: purple",
+   "kind": "speak",
+   "text": "I'd like to follow up on the questions asked by Players 1: blue and 2: cyan regarding Player 5: yellow's movements and alibi. Player 5: yellow, can you provide a clear, step-by-step account of your actions leading up to and after the alleged killing of Player 6: green? Additionally, I'd like to ask the group if anyone has noticed anything unusual around the Security area or Lower Engine, as these are areas I need to visit for my tasks. Have there been any sightings of players venting or acting suspiciously in these areas? Let's also discuss the potential for Impostor activity in the Cafeteria, given the alleged killing took place here. Any information about unusual behavior or movements in this area could be crucial."
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "I'd like to ask Player 5: yellow to provide more specific details about their movements and actions leading up to the alleged killing of Player 6: green. Can you confirm if you were alone in the Cafeteria at any point, and did you see anyone else around that time? Additionally, I'd like to ask the group if anyone has noticed anything unusual around the vents, especially in the Cafeteria, Upper Engine, or Reactor areas. Let's also discuss the potential for Impostor activity in these areas and share any information that could support or refute the accusation made by Player 7."
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 5: yellow",
+   "kind": "speak",
+   "text": "I understand that there are concerns about my movements, and I'm happy to provide more information. However, I'd like to clarify that I was moving around the ship to complete my tasks, and I didn't see anything unusual around the time Player 6 was allegedly killed. I'd like to know more about what Player 7 witnessed and what led them to accuse me. Can Player 7 provide more details about their claim? Additionally, I'd like to ask if anyone has noticed anything unusual around the vents in the Cafeteria, Upper Engine, or Reactor areas. Have there been any sightings of players venting or acting suspiciously in these areas? Let's also discuss the potential for Impostor activity in these areas and share any information that could support or refute the accusation made by Player 7. I'm also curious to know if anyone has completed their tasks in the Security area, as I need to head there to complete my own task."
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "I understand that Player 5: yellow has requested more details about the accusation, and I'm happy to provide more context. As I mentioned earlier, I directly witnessed Player 5: yellow kill Player 6: green in the Cafeteria. I was in the area completing my Empty Garbage task when I saw the incident. I didn't see anyone else around at the time, and I'm certain of what I saw. I urge the group to consider this evidence seriously and take it into account when deciding who to eject. If anyone has any questions or concerns, please feel free to ask, and I'll do my best to provide more information."
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 1: blue",
+   "kind": "vote",
+   "text": "Player 5: yellow"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 2: cyan",
+   "kind": "vote",
+   "text": "Player 5: yellow"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 3: purple",
+   "kind": "vote",
+   "text": "Player 5: yellow"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 4: orange",
+   "kind": "vote",
+   "text": "Player 5: yellow"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 5: yellow",
+   "kind": "vote",
+   "text": "Player 1: blue"
+  },
+  {
+   "game": "Game 26",
+   "step": 2,
+   "speaker": "Player 7: pink",
+   "kind": "vote",
+   "text": "Player 5: yellow"
+  },
+  {
+   "game": "Game 26",
+   "step": 10,
+   "speaker": "Player 4: orange",
+   "kind": "call_meeting",
+   "text": ""
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I'm shocked to hear that a dead body was found in Security. Player 4: orange, you were the one who reported it. Can you tell us more about what you saw? Were you with anyone when you found the body?"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 2: cyan",
+   "kind": "speak",
+   "text": "Player 4: orange, can you please provide more details about what you saw when you found the dead body in Security? Were you alone when you discovered it, and did you see anyone or anything suspicious around that time?"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "I found the dead body in Security, and Player 1 was the one who killed Player 3. I didn't see anyone else around at that time. Player 1, can you explain why you were in Security and what happened? Were you with anyone else before coming to Security? Additionally, Player 2, can you tell us where you were when the murder occurred and if you saw anything suspicious?"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "Player 1: blue, can you please respond to the accusation made by Player 4: orange? Were you in Security around the time the body was found, and can you provide an alibi for that time?"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I'm shocked that Player 4: orange would accuse me of such a thing. I don't recall seeing Player 4 anywhere near Security when I was completing my task, but I do remember seeing them lurking around the area earlier. Can Player 4 explain what they were doing near Security before they found the body? It seems suspicious that they just happened to stumble upon the body. I think we should be careful not to jump to conclusions and consider all possibilities before voting someone out."
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 2: cyan",
+   "kind": "speak",
+   "text": "Player 4: orange, can you provide more details about what you saw when you found the dead body in Security? Were you alone when you discovered it, and did you see anyone or anything suspicious around that time? Additionally, Player 1: blue, can you provide an alibi for the time when the murder allegedly occurred? Where were you, and were you with anyone who can confirm your location?"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "I'd like to provide more details about what I saw when I found the dead body in Security. As I mentioned earlier, I saw Player 1 kill Player 3. I was alone when I discovered the body, and I didn't see anyone else around at that time. Player 1, can you please provide a clear alibi for the time of the murder and explain your actions in Security? Where were you before coming to Security, and were you with anyone who can confirm your location? I'd also like to ask Player 2 and Player 7, where were you both when the murder occurred, and did you see anything suspicious?"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "Player 1: blue, can you please provide a clear and detailed alibi for the time of the murder? Where were you before coming to Security, and were you with anyone who can confirm your location? Player 4: orange, can you provide more details about your actions before finding the dead body in Security? What were you doing in the area, and did you see anyone else around? Player 2: cyan, do you have any information about Player 1's actions before the murder, or did you see anything suspicious?"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I find it interesting that Player 4: orange is so quick to accuse me, yet they seem to be lacking in details about their own actions before finding the body. Can Player 4 explain why they were in the area, and what they were doing before they stumbled upon the body? It seems suspicious that they just happened to be there at the right time. I think we should be careful not to jump to conclusions and consider all possibilities before voting someone out. Perhaps we should also ask Player 4 about their whereabouts during the time the murder allegedly occurred, and if they have any witnesses who can confirm their alibi."
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 2: cyan",
+   "kind": "speak",
+   "text": "Player 4: orange, can you provide more details about your actions before finding the dead body in Security? What were you doing in the area, and did you see anyone else around? Player 1: blue, can you please provide a clear alibi for the time of the murder and explain your actions in Security? Player 7: pink, do you have any information about Player 1's actions before the murder, or did you see anything suspicious? I'd like to hear more about what everyone was doing before the body was found to help us piece together what happened."
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "To address the questions and concerns, I'll provide a detailed account of my actions before finding the dead body. I was completing my tasks, specifically Fix Wiring in Security, which is how I stumbled upon the body. Before that, I was in the Upper Engine completing Align Engine Output. As for my whereabouts during the exact time of the murder, I was alone in Security. Player 1, I reiterate my question: Can you please provide a detailed alibi for the time of the murder, including your location and if anyone can confirm you were with them? This information is crucial for us to make an informed decision. Players 2 and 7, can you also share your locations and any notable observations around the time the murder occurred? Let's work together to clarify the events leading up to the murder."
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "Player 1: blue, to address the concerns and accusations made against you, can you provide a detailed and step-by-step account of your actions leading up to the time the body was found in Security? This includes your location before arriving in Security and if you were with anyone who can confirm your alibi. Player 4: orange, your explanation of completing Fix Wiring in Security before finding the body helps clarify your presence in the area, but can you further elaborate on how long you were in Security before discovering the body and if you noticed anything unusual? Player 2: cyan, have you any information or observations that could help us understand the events surrounding the murder? As for myself, I was completing my tasks in Shields and did not see anyone suspicious around the time of the murder. Let's work together to piece together the events and make an informed decision."
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 1: blue",
+   "kind": "vote",
+   "text": "Player 4: orange"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 2: cyan",
+   "kind": "vote",
+   "text": "Player 4: orange"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 4: orange",
+   "kind": "vote",
+   "text": "Player 1: blue"
+  },
+  {
+   "game": "Game 26",
+   "step": 11,
+   "speaker": "Player 7: pink",
+   "kind": "vote",
+   "text": "Player 1: blue"
+  },
+  {
+   "game": "Game 26",
+   "step": 13,
+   "speaker": "Player 7: pink",
+   "kind": "call_meeting",
+   "text": ""
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I think it's interesting that Player 4: orange and Player 7: pink were both in the Cafeteria when the body was found. Can they explain what they were doing during that time? Were they together or separate? It seems to me that we should be careful not to jump to conclusions and consider all possibilities before voting someone out. Perhaps we should also ask them about their tasks and if they have any witnesses who can confirm their alibi. Let's not forget that there could be multiple Impostors, and we should be cautious of making hasty decisions."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "Player 1 has already been caught killing Player 2, which clearly identifies them as an Impostor. We should prioritize voting them out in this meeting to prevent any further harm. I suggest we focus on gathering any additional information that might be relevant but not let it distract us from the primary goal of ejecting the known Impostor. Let's work together to ensure Player 1 is removed from the game to increase our chances of survival and completing the tasks."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "I agree with Player 4: orange that the evidence against Player 1: blue is substantial, and their actions have been highly suspicious. Given that they have already been caught killing Player 2: cyan in the Cafeteria, it's clear that they are an Impostor. I think we should prioritize ejecting Player 1: blue to prevent further harm and increase our chances of completing the tasks and surviving. We should also remain vigilant and continue to gather information, as there could be multiple Impostors among us. Let's work together to make an informed decision and take the necessary actions to ensure our survival."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I find it interesting that both Player 4: orange and Player 7: pink are so quick to accuse me, yet they were also present in the Cafeteria when the body was found. Can they provide more details about their actions and whereabouts during that time? Were they working together on a task, or were they separate? It's possible that they might have seen or heard something that could help us identify the real killer. I think it's essential to consider all possibilities and not jump to conclusions. Perhaps they can also explain why they were in the Cafeteria at the same time as the kill. Let's not forget that there could be multiple Impostors, and we should be cautious of making hasty decisions based on limited information."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "I'd like to address Player 1's questions and concerns. As I mentioned earlier, I was in the Cafeteria working on my tasks, and I did not see Player 7 until after the body was found. I can assure you that we were not working together to frame Player 1. The fact remains that Player 1 was caught killing Player 2, which clearly identifies them as an Impostor. I suggest we focus on ejecting Player 1 and not get distracted by their attempts to deflect suspicion. We can discuss potential additional Impostors later, but for now, let's prioritize removing the known threat."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "I agree with Player 4: orange that Player 1: blue's actions are highly suspicious, and the evidence against them is substantial. Their attempt to deflect suspicion by questioning our whereabouts is not convincing, especially since they were caught killing Player 2: cyan. I think we should prioritize ejecting Player 1: blue to prevent further harm and increase our chances of completing the tasks and surviving. We should remain vigilant and continue to gather information, but the fact remains that Player 1: blue is a known Impostor and should be removed from the game."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 1: blue",
+   "kind": "speak",
+   "text": "I find it quite interesting that both Player 4: orange and Player 7: pink are so adamant about my guilt. However, I'd like to point out that their stories seem a bit too convenient. Player 4: orange claims they were working on tasks in the Cafeteria and didn't see Player 7: pink until after the body was found, but how can we be sure of that? Perhaps they were indeed together, discussing how to frame me for the crime. I'm not saying they are Impostors, but we should consider all possibilities. Can they provide any witnesses or evidence that confirms their alibi? It's crucial that we examine all potential scenarios before making a decision. Let's not rush into ejecting someone based on circumstantial evidence and accusations alone."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 4: orange",
+   "kind": "speak",
+   "text": "I'd like to address Player 1's latest attempt to deflect suspicion. Their story about us potentially framing them is not convincing, and the evidence against them remains substantial. We have witnessed them killing Player 2 in the Cafeteria, which clearly identifies them as an Impostor. I suggest we stay focused on the facts and prioritize ejecting Player 1 to prevent further harm. Let's not get distracted by conspiracy theories or attempts to shift the blame. We should work together to ensure Player 1 is removed from the game, and then we can continue to gather information and discuss potential additional Impostors."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 7: pink",
+   "kind": "speak",
+   "text": "I strongly agree with Player 4: orange that the evidence against Player 1: blue is overwhelming, and their attempts to deflect suspicion are unconvincing. Given that they were caught killing Player 2: cyan, it's clear that they are an Impostor. I suggest we prioritize ejecting Player 1: blue to prevent further harm and increase our chances of completing the tasks and surviving. We should remain vigilant and continue to gather information, but the fact remains that Player 1: blue is a known Impostor and should be removed from the game. Let's work together to make an informed decision and take the necessary actions to ensure our survival."
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 1: blue",
+   "kind": "vote",
+   "text": "Player 4: orange"
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 4: orange",
+   "kind": "vote",
+   "text": "Player 1: blue"
+  },
+  {
+   "game": "Game 26",
+   "step": 14,
+   "speaker": "Player 7: pink",
+   "kind": "vote",
+   "text": "Player 1: blue"
+  }
+ ],
+ "meetings": [
+  2,
+  11,
+  14
+ ],
+ "timeline": [
+  {
+   "meeting": 1,
+   "step": 2,
+   "features": {
+    "Player 1: blue": {
+     "votes_received": 1,
+     "accusation_mentions": 0,
+     "minority_votes": 0,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 0,
+     "score": 1
+    },
+    "Player 2: cyan": {
+     "votes_received": 0,
+     "accusation_mentions": 0,
+     "minority_votes": 0,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 0,
+     "score": 0
+    },
+    "Player 3: purple": {
+     "votes_received": 0,
+     "accusation_mentions": 0,
+     "minority_votes": 0,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 0,
+     "score": 0
+    },
+    "Player 4: orange": {
+     "votes_received": 0,
+     "accusation_mentions": 0,
+     "minority_votes": 0,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 0,
+     "score": 0
+    },
+    "Player 5: yellow": {
+     "votes_received": 5,
+     "accusation_mentions": 14,
+     "minority_votes": 1,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 5,
+     "score": 11
+    },
+    "Player 7: pink": {
+     "votes_received": 0,
+     "accusation_mentions": 9,
+     "minority_votes": 0,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 4,
+     "score": 4
+    }
+   }
+  },
+  {
+   "meeting": 2,
+   "step": 11,
+   "features": {
+    "Player 1: blue": {
+     "votes_received": 3,
+     "accusation_mentions": 6,
+     "minority_votes": 0,
+     "votes_cast": 2,
+     "speeches": 6,
+     "distinct_accusers": 3,
+     "score": 6
+    },
+    "Player 2: cyan": {
+     "votes_received": 0,
+     "accusation_mentions": 3,
+     "minority_votes": 0,
+     "votes_cast": 2,
+     "speeches": 6,
+     "distinct_accusers": 2,
+     "score": 2
+    },
+    "Player 3: purple": {
+     "votes_received": 0,
+     "accusation_mentions": 2,
+     "minority_votes": 0,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 1,
+     "score": 1
+    },
+    "Player 4: orange": {
+     "votes_received": 2,
+     "accusation_mentions": 3,
+     "minority_votes": 1,
+     "votes_cast": 2,
+     "speeches": 6,
+     "distinct_accusers": 2,
+     "score": 5
+    },
+    "Player 5: yellow": {
+     "votes_received": 5,
+     "accusation_mentions": 14,
+     "minority_votes": 1,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 5,
+     "score": 11
+    },
+    "Player 7: pink": {
+     "votes_received": 0,
+     "accusation_mentions": 11,
+     "minority_votes": 1,
+     "votes_cast": 2,
+     "speeches": 6,
+     "distinct_accusers": 4,
+     "score": 5
+    }
+   }
+  },
+  {
+   "meeting": 3,
+   "step": 14,
+   "features": {
+    "Player 1: blue": {
+     "votes_received": 5,
+     "accusation_mentions": 18,
+     "minority_votes": 1,
+     "votes_cast": 3,
+     "speeches": 9,
+     "distinct_accusers": 3,
+     "score": 9
+    },
+    "Player 2: cyan": {
+     "votes_received": 0,
+     "accusation_mentions": 9,
+     "minority_votes": 0,
+     "votes_cast": 2,
+     "speeches": 6,
+     "distinct_accusers": 2,
+     "score": 2
+    },
+    "Player 3: purple": {
+     "votes_received": 0,
+     "accusation_mentions": 2,
+     "minority_votes": 0,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 1,
+     "score": 1
+    },
+    "Player 4: orange": {
+     "votes_received": 3,
+     "accusation_mentions": 6,
+     "minority_votes": 1,
+     "votes_cast": 3,
+     "speeches": 9,
+     "distinct_accusers": 2,
+     "score": 6
+    },
+    "Player 5: yellow": {
+     "votes_received": 5,
+     "accusation_mentions": 14,
+     "minority_votes": 1,
+     "votes_cast": 1,
+     "speeches": 3,
+     "distinct_accusers": 5,
+     "score": 11
+    },
+    "Player 7: pink": {
+     "votes_received": 0,
+     "accusation_mentions": 12,
+     "minority_votes": 1,
+     "votes_cast": 3,
+     "speeches": 9,
+     "distinct_accusers": 5,
+     "score": 6
+    }
+   }
+  }
+ ],
+ "labels_for_scoring_only": {
+  "Player 1: blue": true,
+  "Player 2: cyan": false,
+  "Player 3: purple": false,
+  "Player 4: orange": false,
+  "Player 5: yellow": true,
+  "Player 7: pink": false
+ }
+}
