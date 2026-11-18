@@ -6,7 +6,7 @@
 
 **Statement number** (the card your corner wrote): _fill in from your corner's card_
 
-**First names:** _fill in_
+**First names:** Shriya
 
 **Statement:** How might we help **teams that deploy multi-agent AI workflows** do **catch and cut off a compromised
 or misbehaving agent in real time** so that **one bad agent cannot quietly corrupt shared work, and honest agents are not
